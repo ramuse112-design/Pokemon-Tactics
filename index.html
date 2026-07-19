@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokéTactics Studio</title>
+    <!-- Fuente Gaming de Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Press+Start+2P&family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+    <!-- Enlace al CSS que crearemos ahora -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- CABECERA CON LOGO OFICIAL -->
+    <header class="main-header">
+        <div class="logo-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg" alt="Pokémon" class="poke-logo">
+            <span class="subtitle">TACTICS STUDIO</span>
+        </div>
+    </header>
+
+    <main class="container">
+        
+        <!-- SECCIÓN DE BÚSQUEDA DEL RIVAL (ESTILO POKÉDEX) -->
+        <section class="pokedex-section">
+            <div class="pokedex-header">
+                <div class="led-principal animate-pulse"></div>
+                <div class="led-secundario red"></div>
+                <div class="led-secundario yellow"></div>
+                <div class="led-secundario green"></div>
+            </div>
+            
+            <div class="pokedex-body">
+                <h2>🔎 IDENTIFICAR AMENAZA RIVAL</h2>
+                <div class="search-box">
+                    <input type="text" id="rival-name" list="lista-pokemon-autocompletado" placeholder="Escribe el rival (ej: Charizard)...">
+                    <datalist id="lista-pokemon-autocompletado"></datalist>
+                    <button id="btn-buscar-rival">ESCANEAR</button>
+                </div>
+
+                <!-- Resultado del Rival (Oculto al inicio) -->
+                <div id="rival-result" class="rival-card hidden">
+                    <div class="rival-display">
+                        <div class="screen-glare"></div>
+                        <img id="rival-img" src="" alt="Rival">
+                    </div>
+                    <div class="rival-info">
+                        <h3 id="rival-display-name">---</h3>
+                        <div id="rival-types" class="types-row"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECCIÓN DE TU EQUIPO DE 6 -->
+        <section class="team-section">
+            <div class="section-title-bar">
+                <h2>🛡️ CONFIGURACIÓN DE TU ESCUADRÓN</h2>
+                <button id="btn-guardar-equipo" class="btn-save">💾 GUARDAR EQUIPO</button>
+            </div>
+            
+            <!-- JavaScript inyectará las 6 tarjetas aquí -->
+            <div id="team-container" class="team-grid"></div>
+        </section>
+
+        <!-- PANEL DE ESTRATEGIA MATRICIAL -->
+        <section class="strategy-section">
+            <div class="text-center">
+                <button id="btn-calcular-estrategia" class="btn-tactical">⚡ EJECUTAR ANÁLISIS DE COMBATE ⚡</button>
+            </div>
+            <!-- Contenedor de resultados -->
+            <div id="estrategia-result" class="strategy-panel hidden"></div>
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

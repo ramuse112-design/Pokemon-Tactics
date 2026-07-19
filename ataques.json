@@ -1,0 +1,4687 @@
+[
+  {
+    "id": "mega-punch",
+    "nameES": "Megapuño",
+    "type": "normal"
+  },
+  {
+    "id": "sand-attack",
+    "nameES": "Ataque Arena",
+    "type": "ground"
+  },
+  {
+    "id": "tackle",
+    "nameES": "Placaje",
+    "type": "normal"
+  },
+  {
+    "id": "karate-chop",
+    "nameES": "Golpe Kárate",
+    "type": "fighting"
+  },
+  {
+    "id": "pound",
+    "nameES": "Destructor",
+    "type": "normal"
+  },
+  {
+    "id": "body-slam",
+    "nameES": "Golpe Cuerpo",
+    "type": "normal"
+  },
+  {
+    "id": "fury-attack",
+    "nameES": "Ataque Furia",
+    "type": "normal"
+  },
+  {
+    "id": "ice-punch",
+    "nameES": "Puño Hielo",
+    "type": "ice"
+  },
+  {
+    "id": "vine-whip",
+    "nameES": "Látigo Cepa",
+    "type": "grass"
+  },
+  {
+    "id": "fire-punch",
+    "nameES": "Puño Fuego",
+    "type": "fire"
+  },
+  {
+    "id": "stomp",
+    "nameES": "Pisotón",
+    "type": "normal"
+  },
+  {
+    "id": "tail-whip",
+    "nameES": "Agitacola",
+    "type": "normal"
+  },
+  {
+    "id": "double-kick",
+    "nameES": "Doble Patada",
+    "type": "fighting"
+  },
+  {
+    "id": "pay-day",
+    "nameES": "Día de Pago",
+    "type": "normal"
+  },
+  {
+    "id": "horn-drill",
+    "nameES": "Perforador",
+    "type": "normal"
+  },
+  {
+    "id": "double-edge",
+    "nameES": "Doble Filo",
+    "type": "normal"
+  },
+  {
+    "id": "thunder-punch",
+    "nameES": "Puño Trueno",
+    "type": "electric"
+  },
+  {
+    "id": "supersonic",
+    "nameES": "Supersónico",
+    "type": "normal"
+  },
+  {
+    "id": "roar",
+    "nameES": "Rugido",
+    "type": "normal"
+  },
+  {
+    "id": "vice-grip",
+    "nameES": "Agarre",
+    "type": "normal"
+  },
+  {
+    "id": "twineedle",
+    "nameES": "Doble Ataque",
+    "type": "bug"
+  },
+  {
+    "id": "jump-kick",
+    "nameES": "Patada Salto",
+    "type": "fighting"
+  },
+  {
+    "id": "wing-attack",
+    "nameES": "Ataque Ala",
+    "type": "flying"
+  },
+  {
+    "id": "hydro-pump",
+    "nameES": "Hidrobomba",
+    "type": "water"
+  },
+  {
+    "id": "psybeam",
+    "nameES": "Psicorrayo",
+    "type": "psychic"
+  },
+  {
+    "id": "leer",
+    "nameES": "Malicioso",
+    "type": "normal"
+  },
+  {
+    "id": "surf",
+    "nameES": "Surf",
+    "type": "water"
+  },
+  {
+    "id": "sing",
+    "nameES": "Canto",
+    "type": "normal"
+  },
+  {
+    "id": "bite",
+    "nameES": "Mordisco",
+    "type": "dark"
+  },
+  {
+    "id": "blizzard",
+    "nameES": "Ventisca",
+    "type": "ice"
+  },
+  {
+    "id": "ember",
+    "nameES": "Ascuas",
+    "type": "fire"
+  },
+  {
+    "id": "growl",
+    "nameES": "Gruñido",
+    "type": "normal"
+  },
+  {
+    "id": "rolling-kick",
+    "nameES": "Patada Giro",
+    "type": "fighting"
+  },
+  {
+    "id": "razor-wind",
+    "nameES": "Viento Cortante",
+    "type": "normal"
+  },
+  {
+    "id": "bind",
+    "nameES": "Atadura",
+    "type": "normal"
+  },
+  {
+    "id": "cut",
+    "nameES": "Corte",
+    "type": "normal"
+  },
+  {
+    "id": "headbutt",
+    "nameES": "Golpe Cabeza",
+    "type": "normal"
+  },
+  {
+    "id": "ice-beam",
+    "nameES": "Rayo Hielo",
+    "type": "ice"
+  },
+  {
+    "id": "fly",
+    "nameES": "Vuelo",
+    "type": "flying"
+  },
+  {
+    "id": "sonic-boom",
+    "nameES": "Bomba Sónica",
+    "type": "normal"
+  },
+  {
+    "id": "take-down",
+    "nameES": "Derribo",
+    "type": "normal"
+  },
+  {
+    "id": "poison-sting",
+    "nameES": "Picotazo Veneno",
+    "type": "poison"
+  },
+  {
+    "id": "water-gun",
+    "nameES": "Pistola Agua",
+    "type": "water"
+  },
+  {
+    "id": "disable",
+    "nameES": "Anulación",
+    "type": "normal"
+  },
+  {
+    "id": "pin-missile",
+    "nameES": "Pin Misil",
+    "type": "bug"
+  },
+  {
+    "id": "comet-punch",
+    "nameES": "Puño Cometa",
+    "type": "normal"
+  },
+  {
+    "id": "scratch",
+    "nameES": "Arañazo",
+    "type": "normal"
+  },
+  {
+    "id": "acid",
+    "nameES": "Ácido",
+    "type": "poison"
+  },
+  {
+    "id": "flamethrower",
+    "nameES": "Lanzallamas",
+    "type": "fire"
+  },
+  {
+    "id": "double-slap",
+    "nameES": "Doble Bofetón",
+    "type": "normal"
+  },
+  {
+    "id": "gust",
+    "nameES": "Tornado",
+    "type": "flying"
+  },
+  {
+    "id": "guillotine",
+    "nameES": "Guillotina",
+    "type": "normal"
+  },
+  {
+    "id": "whirlwind",
+    "nameES": "Remolino",
+    "type": "normal"
+  },
+  {
+    "id": "mega-kick",
+    "nameES": "Megapatada",
+    "type": "normal"
+  },
+  {
+    "id": "horn-attack",
+    "nameES": "Cornada",
+    "type": "normal"
+  },
+  {
+    "id": "slam",
+    "nameES": "Atizar",
+    "type": "normal"
+  },
+  {
+    "id": "thrash",
+    "nameES": "Saña",
+    "type": "normal"
+  },
+  {
+    "id": "wrap",
+    "nameES": "Constricción",
+    "type": "normal"
+  },
+  {
+    "id": "swords-dance",
+    "nameES": "Danza Espada",
+    "type": "normal"
+  },
+  {
+    "id": "mist",
+    "nameES": "Neblina",
+    "type": "ice"
+  },
+  {
+    "id": "strength",
+    "nameES": "Fuerza",
+    "type": "normal"
+  },
+  {
+    "id": "rock-throw",
+    "nameES": "Lanzarrocas",
+    "type": "rock"
+  },
+  {
+    "id": "fire-spin",
+    "nameES": "Giro Fuego",
+    "type": "fire"
+  },
+  {
+    "id": "string-shot",
+    "nameES": "Disparo Demora",
+    "type": "bug"
+  },
+  {
+    "id": "quick-attack",
+    "nameES": "Ataque Rápido",
+    "type": "normal"
+  },
+  {
+    "id": "drill-peck",
+    "nameES": "Pico Taladro",
+    "type": "flying"
+  },
+  {
+    "id": "solar-beam",
+    "nameES": "Rayo Solar",
+    "type": "grass"
+  },
+  {
+    "id": "submission",
+    "nameES": "Sumisión",
+    "type": "fighting"
+  },
+  {
+    "id": "hyper-beam",
+    "nameES": "Hiperrayo",
+    "type": "normal"
+  },
+  {
+    "id": "bubble-beam",
+    "nameES": "Rayo Burbuja",
+    "type": "water"
+  },
+  {
+    "id": "aurora-beam",
+    "nameES": "Rayo Aurora",
+    "type": "ice"
+  },
+  {
+    "id": "smokescreen",
+    "nameES": "Pantalla de Humo",
+    "type": "normal"
+  },
+  {
+    "id": "razor-leaf",
+    "nameES": "Hoja Afilada",
+    "type": "grass"
+  },
+  {
+    "id": "light-screen",
+    "nameES": "Pantalla de Luz",
+    "type": "psychic"
+  },
+  {
+    "id": "earthquake",
+    "nameES": "Terremoto",
+    "type": "ground"
+  },
+  {
+    "id": "sleep-powder",
+    "nameES": "Somnífero",
+    "type": "grass"
+  },
+  {
+    "id": "metronome",
+    "nameES": "Metrónomo",
+    "type": "normal"
+  },
+  {
+    "id": "peck",
+    "nameES": "Picotazo",
+    "type": "flying"
+  },
+  {
+    "id": "harden",
+    "nameES": "Fortaleza",
+    "type": "normal"
+  },
+  {
+    "id": "petal-dance",
+    "nameES": "Danza Pétalo",
+    "type": "grass"
+  },
+  {
+    "id": "bide",
+    "nameES": "Venganza",
+    "type": "normal"
+  },
+  {
+    "id": "night-shade",
+    "nameES": "Tinieblas",
+    "type": "ghost"
+  },
+  {
+    "id": "psychic",
+    "nameES": "Psíquico",
+    "type": "psychic"
+  },
+  {
+    "id": "haze",
+    "nameES": "Niebla",
+    "type": "ice"
+  },
+  {
+    "id": "fissure",
+    "nameES": "Fisura",
+    "type": "ground"
+  },
+  {
+    "id": "leech-seed",
+    "nameES": "Drenadoras",
+    "type": "grass"
+  },
+  {
+    "id": "mimic",
+    "nameES": "Mimético",
+    "type": "normal"
+  },
+  {
+    "id": "absorb",
+    "nameES": "Absorber",
+    "type": "grass"
+  },
+  {
+    "id": "barrier",
+    "nameES": "Barrera",
+    "type": "psychic"
+  },
+  {
+    "id": "thunder-wave",
+    "nameES": "Onda Trueno",
+    "type": "electric"
+  },
+  {
+    "id": "rage",
+    "nameES": "Furia",
+    "type": "normal"
+  },
+  {
+    "id": "growth",
+    "nameES": "Desarrollo",
+    "type": "normal"
+  },
+  {
+    "id": "confusion",
+    "nameES": "Confusión",
+    "type": "psychic"
+  },
+  {
+    "id": "dragon-rage",
+    "nameES": "Furia Dragón",
+    "type": "dragon"
+  },
+  {
+    "id": "thunder-shock",
+    "nameES": "Impactrueno",
+    "type": "electric"
+  },
+  {
+    "id": "dig",
+    "nameES": "Excavar",
+    "type": "ground"
+  },
+  {
+    "id": "toxic",
+    "nameES": "Tóxico",
+    "type": "poison"
+  },
+  {
+    "id": "reflect",
+    "nameES": "Reflejo",
+    "type": "psychic"
+  },
+  {
+    "id": "defense-curl",
+    "nameES": "Rizo Defensa",
+    "type": "normal"
+  },
+  {
+    "id": "focus-energy",
+    "nameES": "Foco Energía",
+    "type": "normal"
+  },
+  {
+    "id": "recover",
+    "nameES": "Recuperación",
+    "type": "normal"
+  },
+  {
+    "id": "thunder",
+    "nameES": "Trueno",
+    "type": "electric"
+  },
+  {
+    "id": "low-kick",
+    "nameES": "Patada Baja",
+    "type": "fighting"
+  },
+  {
+    "id": "double-team",
+    "nameES": "Doble Equipo",
+    "type": "normal"
+  },
+  {
+    "id": "poison-powder",
+    "nameES": "Polvo Veneno",
+    "type": "poison"
+  },
+  {
+    "id": "counter",
+    "nameES": "Contraataque",
+    "type": "fighting"
+  },
+  {
+    "id": "confuse-ray",
+    "nameES": "Rayo Confuso",
+    "type": "ghost"
+  },
+  {
+    "id": "agility",
+    "nameES": "Agilidad",
+    "type": "psychic"
+  },
+  {
+    "id": "minimize",
+    "nameES": "Reducción",
+    "type": "normal"
+  },
+  {
+    "id": "stun-spore",
+    "nameES": "Paralizador",
+    "type": "grass"
+  },
+  {
+    "id": "withdraw",
+    "nameES": "Refugio",
+    "type": "water"
+  },
+  {
+    "id": "mega-drain",
+    "nameES": "Megaagotar",
+    "type": "grass"
+  },
+  {
+    "id": "meditate",
+    "nameES": "Meditación",
+    "type": "psychic"
+  },
+  {
+    "id": "teleport",
+    "nameES": "Teletransporte",
+    "type": "psychic"
+  },
+  {
+    "id": "self-destruct",
+    "nameES": "Autodestrucción",
+    "type": "normal"
+  },
+  {
+    "id": "screech",
+    "nameES": "Chirrido",
+    "type": "normal"
+  },
+  {
+    "id": "mirror-move",
+    "nameES": "Espejo",
+    "type": "flying"
+  },
+  {
+    "id": "thunderbolt",
+    "nameES": "Rayo",
+    "type": "electric"
+  },
+  {
+    "id": "seismic-toss",
+    "nameES": "Sísmico",
+    "type": "fighting"
+  },
+  {
+    "id": "hypnosis",
+    "nameES": "Hipnosis",
+    "type": "psychic"
+  },
+  {
+    "id": "constrict",
+    "nameES": "Restricción",
+    "type": "normal"
+  },
+  {
+    "id": "kinesis",
+    "nameES": "Kinético",
+    "type": "psychic"
+  },
+  {
+    "id": "spore",
+    "nameES": "Espora",
+    "type": "grass"
+  },
+  {
+    "id": "fury-swipes",
+    "nameES": "Golpes Furia",
+    "type": "normal"
+  },
+  {
+    "id": "slash",
+    "nameES": "Cuchillada",
+    "type": "normal"
+  },
+  {
+    "id": "snore",
+    "nameES": "Ronquido",
+    "type": "normal"
+  },
+  {
+    "id": "smog",
+    "nameES": "Polución",
+    "type": "poison"
+  },
+  {
+    "id": "egg-bomb",
+    "nameES": "Bomba Huevo",
+    "type": "normal"
+  },
+  {
+    "id": "waterfall",
+    "nameES": "Cascada",
+    "type": "water"
+  },
+  {
+    "id": "bone-club",
+    "nameES": "Hueso Palo",
+    "type": "ground"
+  },
+  {
+    "id": "amnesia",
+    "nameES": "Amnesia",
+    "type": "psychic"
+  },
+  {
+    "id": "fire-blast",
+    "nameES": "Llamarada",
+    "type": "fire"
+  },
+  {
+    "id": "lick",
+    "nameES": "Lengüetazo",
+    "type": "ghost"
+  },
+  {
+    "id": "curse",
+    "nameES": "Maldición",
+    "type": "ghost"
+  },
+  {
+    "id": "dizzy-punch",
+    "nameES": "Puño Mareo",
+    "type": "normal"
+  },
+  {
+    "id": "bubble",
+    "nameES": "Burbuja",
+    "type": "water"
+  },
+  {
+    "id": "explosion",
+    "nameES": "Explosión",
+    "type": "normal"
+  },
+  {
+    "id": "swift",
+    "nameES": "Meteoros",
+    "type": "normal"
+  },
+  {
+    "id": "leech-life",
+    "nameES": "Chupavidas",
+    "type": "bug"
+  },
+  {
+    "id": "substitute",
+    "nameES": "Sustituto",
+    "type": "normal"
+  },
+  {
+    "id": "bonemerang",
+    "nameES": "Huesomerang",
+    "type": "ground"
+  },
+  {
+    "id": "flail",
+    "nameES": "Azote",
+    "type": "normal"
+  },
+  {
+    "id": "mind-reader",
+    "nameES": "Telépata",
+    "type": "normal"
+  },
+  {
+    "id": "reversal",
+    "nameES": "Inversión",
+    "type": "fighting"
+  },
+  {
+    "id": "flash",
+    "nameES": "Destello",
+    "type": "normal"
+  },
+  {
+    "id": "spite",
+    "nameES": "Rencor",
+    "type": "ghost"
+  },
+  {
+    "id": "super-fang",
+    "nameES": "Superdiente",
+    "type": "normal"
+  },
+  {
+    "id": "rest",
+    "nameES": "Descanso",
+    "type": "psychic"
+  },
+  {
+    "id": "cotton-spore",
+    "nameES": "Esporagodón",
+    "type": "grass"
+  },
+  {
+    "id": "dream-eater",
+    "nameES": "Comesueños",
+    "type": "psychic"
+  },
+  {
+    "id": "rock-slide",
+    "nameES": "Avalancha",
+    "type": "rock"
+  },
+  {
+    "id": "splash",
+    "nameES": "Salpicadura",
+    "type": "normal"
+  },
+  {
+    "id": "sky-attack",
+    "nameES": "Ataque Aéreo",
+    "type": "flying"
+  },
+  {
+    "id": "sludge",
+    "nameES": "Residuos",
+    "type": "poison"
+  },
+  {
+    "id": "sharpen",
+    "nameES": "Afilar",
+    "type": "normal"
+  },
+  {
+    "id": "hyper-fang",
+    "nameES": "Hipercolmillo",
+    "type": "normal"
+  },
+  {
+    "id": "transform",
+    "nameES": "Transformación",
+    "type": "normal"
+  },
+  {
+    "id": "high-jump-kick",
+    "nameES": "Patada Salto Alta",
+    "type": "fighting"
+  },
+  {
+    "id": "conversion-2",
+    "nameES": "Conversión 2",
+    "type": "normal"
+  },
+  {
+    "id": "tri-attack",
+    "nameES": "Triataque",
+    "type": "normal"
+  },
+  {
+    "id": "psywave",
+    "nameES": "Psicoonda",
+    "type": "psychic"
+  },
+  {
+    "id": "nightmare",
+    "nameES": "Pesadilla",
+    "type": "ghost"
+  },
+  {
+    "id": "spike-cannon",
+    "nameES": "Clavo Cañón",
+    "type": "normal"
+  },
+  {
+    "id": "thief",
+    "nameES": "Ladrón",
+    "type": "dark"
+  },
+  {
+    "id": "acid-armor",
+    "nameES": "Armadura Ácida",
+    "type": "poison"
+  },
+  {
+    "id": "triple-kick",
+    "nameES": "Triple Patada",
+    "type": "fighting"
+  },
+  {
+    "id": "conversion",
+    "nameES": "Conversión",
+    "type": "normal"
+  },
+  {
+    "id": "spider-web",
+    "nameES": "Telaraña",
+    "type": "bug"
+  },
+  {
+    "id": "lovely-kiss",
+    "nameES": "Beso Amoroso",
+    "type": "normal"
+  },
+  {
+    "id": "crabhammer",
+    "nameES": "Martillazo",
+    "type": "water"
+  },
+  {
+    "id": "skull-bash",
+    "nameES": "Cabezazo",
+    "type": "normal"
+  },
+  {
+    "id": "struggle",
+    "nameES": "Forcejeo",
+    "type": "normal"
+  },
+  {
+    "id": "poison-gas",
+    "nameES": "Gas Venenoso",
+    "type": "poison"
+  },
+  {
+    "id": "flame-wheel",
+    "nameES": "Rueda Fuego",
+    "type": "fire"
+  },
+  {
+    "id": "sketch",
+    "nameES": "Esquema",
+    "type": "normal"
+  },
+  {
+    "id": "soft-boiled",
+    "nameES": "Ovocuración",
+    "type": "normal"
+  },
+  {
+    "id": "barrage",
+    "nameES": "Bombardeo",
+    "type": "normal"
+  },
+  {
+    "id": "clamp",
+    "nameES": "Tenaza",
+    "type": "water"
+  },
+  {
+    "id": "glare",
+    "nameES": "Deslumbrar",
+    "type": "normal"
+  },
+  {
+    "id": "aeroblast",
+    "nameES": "Aerochorro",
+    "type": "flying"
+  },
+  {
+    "id": "outrage",
+    "nameES": "Enfado",
+    "type": "dragon"
+  },
+  {
+    "id": "dragon-breath",
+    "nameES": "Dragoaliento",
+    "type": "dragon"
+  },
+  {
+    "id": "heal-bell",
+    "nameES": "Cascabel Cura",
+    "type": "normal"
+  },
+  {
+    "id": "encore",
+    "nameES": "Otra Vez",
+    "type": "normal"
+  },
+  {
+    "id": "sleep-talk",
+    "nameES": "Sonámbulo",
+    "type": "normal"
+  },
+  {
+    "id": "powder-snow",
+    "nameES": "Nieve Polvo",
+    "type": "ice"
+  },
+  {
+    "id": "hidden-power",
+    "nameES": "Poder Oculto",
+    "type": "normal"
+  },
+  {
+    "id": "sweet-kiss",
+    "nameES": "Beso Dulce",
+    "type": "fairy"
+  },
+  {
+    "id": "feint-attack",
+    "nameES": "Finta",
+    "type": "dark"
+  },
+  {
+    "id": "octazooka",
+    "nameES": "Pulpocañón",
+    "type": "water"
+  },
+  {
+    "id": "mud-slap",
+    "nameES": "Bofetón Lodo",
+    "type": "ground"
+  },
+  {
+    "id": "protect",
+    "nameES": "Protección",
+    "type": "normal"
+  },
+  {
+    "id": "destiny-bond",
+    "nameES": "Mismo Destino",
+    "type": "ghost"
+  },
+  {
+    "id": "perish-song",
+    "nameES": "Canto Mortal",
+    "type": "normal"
+  },
+  {
+    "id": "belly-drum",
+    "nameES": "Tambor",
+    "type": "normal"
+  },
+  {
+    "id": "lock-on",
+    "nameES": "Fijar Blanco",
+    "type": "normal"
+  },
+  {
+    "id": "spark",
+    "nameES": "Chispa",
+    "type": "electric"
+  },
+  {
+    "id": "foresight",
+    "nameES": "Profecía",
+    "type": "normal"
+  },
+  {
+    "id": "metal-claw",
+    "nameES": "Garra Metal",
+    "type": "steel"
+  },
+  {
+    "id": "giga-drain",
+    "nameES": "Gigadrenado",
+    "type": "grass"
+  },
+  {
+    "id": "synthesis",
+    "nameES": "Fotosíntesis",
+    "type": "grass"
+  },
+  {
+    "id": "moonlight",
+    "nameES": "Luz Lunar",
+    "type": "fairy"
+  },
+  {
+    "id": "return",
+    "nameES": "Retribución",
+    "type": "normal"
+  },
+  {
+    "id": "megahorn",
+    "nameES": "Megacuerno",
+    "type": "bug"
+  },
+  {
+    "id": "charm",
+    "nameES": "Encanto",
+    "type": "fairy"
+  },
+  {
+    "id": "twister",
+    "nameES": "Ciclón",
+    "type": "dragon"
+  },
+  {
+    "id": "morning-sun",
+    "nameES": "Sol Matinal",
+    "type": "normal"
+  },
+  {
+    "id": "dynamic-punch",
+    "nameES": "Puño Dinámico",
+    "type": "fighting"
+  },
+  {
+    "id": "sweet-scent",
+    "nameES": "Dulce Aroma",
+    "type": "normal"
+  },
+  {
+    "id": "frustration",
+    "nameES": "Frustración",
+    "type": "normal"
+  },
+  {
+    "id": "swagger",
+    "nameES": "Fanfarronear",
+    "type": "normal"
+  },
+  {
+    "id": "rain-dance",
+    "nameES": "Danza Lluvia",
+    "type": "water"
+  },
+  {
+    "id": "zap-cannon",
+    "nameES": "Electrocañón",
+    "type": "electric"
+  },
+  {
+    "id": "pursuit",
+    "nameES": "Persecución",
+    "type": "dark"
+  },
+  {
+    "id": "fury-cutter",
+    "nameES": "Corte Furia",
+    "type": "bug"
+  },
+  {
+    "id": "scary-face",
+    "nameES": "Cara Susto",
+    "type": "normal"
+  },
+  {
+    "id": "endure",
+    "nameES": "Aguante",
+    "type": "normal"
+  },
+  {
+    "id": "attract",
+    "nameES": "Atracción",
+    "type": "normal"
+  },
+  {
+    "id": "steel-wing",
+    "nameES": "Ala de Acero",
+    "type": "steel"
+  },
+  {
+    "id": "spikes",
+    "nameES": "Púas",
+    "type": "ground"
+  },
+  {
+    "id": "pain-split",
+    "nameES": "Divide Dolor",
+    "type": "normal"
+  },
+  {
+    "id": "baton-pass",
+    "nameES": "Relevo",
+    "type": "normal"
+  },
+  {
+    "id": "false-swipe",
+    "nameES": "Falso Tortazo",
+    "type": "normal"
+  },
+  {
+    "id": "mach-punch",
+    "nameES": "Ultrapuño",
+    "type": "fighting"
+  },
+  {
+    "id": "icy-wind",
+    "nameES": "Viento Hielo",
+    "type": "ice"
+  },
+  {
+    "id": "milk-drink",
+    "nameES": "Batido",
+    "type": "normal"
+  },
+  {
+    "id": "sludge-bomb",
+    "nameES": "Bomba Lodo",
+    "type": "poison"
+  },
+  {
+    "id": "rollout",
+    "nameES": "Rodar",
+    "type": "rock"
+  },
+  {
+    "id": "sandstorm",
+    "nameES": "Tormenta de Arena",
+    "type": "rock"
+  },
+  {
+    "id": "safeguard",
+    "nameES": "Velo Sagrado",
+    "type": "normal"
+  },
+  {
+    "id": "iron-tail",
+    "nameES": "Cola Férrea",
+    "type": "steel"
+  },
+  {
+    "id": "bone-rush",
+    "nameES": "Ataque Óseo",
+    "type": "ground"
+  },
+  {
+    "id": "magnitude",
+    "nameES": "Magnitud",
+    "type": "ground"
+  },
+  {
+    "id": "cross-chop",
+    "nameES": "Tajo Cruzado",
+    "type": "fighting"
+  },
+  {
+    "id": "detect",
+    "nameES": "Detección",
+    "type": "fighting"
+  },
+  {
+    "id": "sacred-fire",
+    "nameES": "Fuego Sagrado",
+    "type": "fire"
+  },
+  {
+    "id": "mean-look",
+    "nameES": "Mal de Ojo",
+    "type": "normal"
+  },
+  {
+    "id": "present",
+    "nameES": "Presente",
+    "type": "normal"
+  },
+  {
+    "id": "rapid-spin",
+    "nameES": "Giro Rápido",
+    "type": "normal"
+  },
+  {
+    "id": "vital-throw",
+    "nameES": "Llave Vital",
+    "type": "fighting"
+  },
+  {
+    "id": "fake-out",
+    "nameES": "Sorpresa",
+    "type": "normal"
+  },
+  {
+    "id": "uproar",
+    "nameES": "Alboroto",
+    "type": "normal"
+  },
+  {
+    "id": "nature-power",
+    "nameES": "Adaptación",
+    "type": "normal"
+  },
+  {
+    "id": "smelling-salts",
+    "nameES": "Estímulo",
+    "type": "normal"
+  },
+  {
+    "id": "revenge",
+    "nameES": "Desquite",
+    "type": "fighting"
+  },
+  {
+    "id": "future-sight",
+    "nameES": "Premonición",
+    "type": "psychic"
+  },
+  {
+    "id": "helping-hand",
+    "nameES": "Refuerzo",
+    "type": "normal"
+  },
+  {
+    "id": "mud-sport",
+    "nameES": "Chapoteo Lodo",
+    "type": "ground"
+  },
+  {
+    "id": "rock-smash",
+    "nameES": "Golpe Roca",
+    "type": "fighting"
+  },
+  {
+    "id": "ingrain",
+    "nameES": "Arraigo",
+    "type": "grass"
+  },
+  {
+    "id": "assist",
+    "nameES": "Ayuda",
+    "type": "normal"
+  },
+  {
+    "id": "snatch",
+    "nameES": "Robo",
+    "type": "dark"
+  },
+  {
+    "id": "will-o-wisp",
+    "nameES": "Fuego Fatuo",
+    "type": "fire"
+  },
+  {
+    "id": "beat-up",
+    "nameES": "Paliza",
+    "type": "dark"
+  },
+  {
+    "id": "secret-power",
+    "nameES": "Daño Secreto",
+    "type": "normal"
+  },
+  {
+    "id": "torment",
+    "nameES": "Tormento",
+    "type": "dark"
+  },
+  {
+    "id": "facade",
+    "nameES": "Fachada",
+    "type": "normal"
+  },
+  {
+    "id": "psych-up",
+    "nameES": "Autosugestión",
+    "type": "normal"
+  },
+  {
+    "id": "endeavor",
+    "nameES": "Esfuerzo",
+    "type": "normal"
+  },
+  {
+    "id": "heat-wave",
+    "nameES": "Onda Ígnea",
+    "type": "fire"
+  },
+  {
+    "id": "crunch",
+    "nameES": "Triturar",
+    "type": "dark"
+  },
+  {
+    "id": "hail",
+    "nameES": "Granizo",
+    "type": "ice"
+  },
+  {
+    "id": "memento",
+    "nameES": "Legado",
+    "type": "dark"
+  },
+  {
+    "id": "feather-dance",
+    "nameES": "Danza Pluma",
+    "type": "flying"
+  },
+  {
+    "id": "magic-coat",
+    "nameES": "Capa Mágica",
+    "type": "psychic"
+  },
+  {
+    "id": "mirror-coat",
+    "nameES": "Manto Espejo",
+    "type": "psychic"
+  },
+  {
+    "id": "extreme-speed",
+    "nameES": "Velocidad Extrema",
+    "type": "normal"
+  },
+  {
+    "id": "brick-break",
+    "nameES": "Demolición",
+    "type": "fighting"
+  },
+  {
+    "id": "grudge",
+    "nameES": "Rabia",
+    "type": "ghost"
+  },
+  {
+    "id": "role-play",
+    "nameES": "Imitación",
+    "type": "psychic"
+  },
+  {
+    "id": "shadow-ball",
+    "nameES": "Bola Sombra",
+    "type": "ghost"
+  },
+  {
+    "id": "taunt",
+    "nameES": "Mofa",
+    "type": "dark"
+  },
+  {
+    "id": "stockpile",
+    "nameES": "Reserva",
+    "type": "normal"
+  },
+  {
+    "id": "focus-punch",
+    "nameES": "Puño Certero",
+    "type": "fighting"
+  },
+  {
+    "id": "wish",
+    "nameES": "Deseo",
+    "type": "normal"
+  },
+  {
+    "id": "yawn",
+    "nameES": "Bostezo",
+    "type": "normal"
+  },
+  {
+    "id": "blaze-kick",
+    "nameES": "Patada Ígnea",
+    "type": "fire"
+  },
+  {
+    "id": "skill-swap",
+    "nameES": "Intercambio",
+    "type": "psychic"
+  },
+  {
+    "id": "charge",
+    "nameES": "Carga",
+    "type": "electric"
+  },
+  {
+    "id": "follow-me",
+    "nameES": "Señuelo",
+    "type": "normal"
+  },
+  {
+    "id": "superpower",
+    "nameES": "Fuerza Bruta",
+    "type": "fighting"
+  },
+  {
+    "id": "spit-up",
+    "nameES": "Escupir",
+    "type": "normal"
+  },
+  {
+    "id": "luster-purge",
+    "nameES": "Resplandor",
+    "type": "psychic"
+  },
+  {
+    "id": "arm-thrust",
+    "nameES": "Empujón",
+    "type": "fighting"
+  },
+  {
+    "id": "flatter",
+    "nameES": "Camelo",
+    "type": "dark"
+  },
+  {
+    "id": "tail-glow",
+    "nameES": "Luminicola",
+    "type": "bug"
+  },
+  {
+    "id": "whirlpool",
+    "nameES": "Torbellino",
+    "type": "water"
+  },
+  {
+    "id": "mist-ball",
+    "nameES": "Bola Neblina",
+    "type": "psychic"
+  },
+  {
+    "id": "refresh",
+    "nameES": "Alivio",
+    "type": "normal"
+  },
+  {
+    "id": "teeter-dance",
+    "nameES": "Danza Caos",
+    "type": "normal"
+  },
+  {
+    "id": "ancient-power",
+    "nameES": "Poder Pasado",
+    "type": "rock"
+  },
+  {
+    "id": "camouflage",
+    "nameES": "Camuflaje",
+    "type": "normal"
+  },
+  {
+    "id": "imprison",
+    "nameES": "Sellar",
+    "type": "psychic"
+  },
+  {
+    "id": "knock-off",
+    "nameES": "Desarme",
+    "type": "dark"
+  },
+  {
+    "id": "sunny-day",
+    "nameES": "Día Soleado",
+    "type": "fire"
+  },
+  {
+    "id": "eruption",
+    "nameES": "Estallido",
+    "type": "fire"
+  },
+  {
+    "id": "swallow",
+    "nameES": "Tragar",
+    "type": "normal"
+  },
+  {
+    "id": "dive",
+    "nameES": "Buceo",
+    "type": "water"
+  },
+  {
+    "id": "trick",
+    "nameES": "Truco",
+    "type": "psychic"
+  },
+  {
+    "id": "recycle",
+    "nameES": "Reciclaje",
+    "type": "normal"
+  },
+  {
+    "id": "bullet-seed",
+    "nameES": "Semilladora",
+    "type": "grass"
+  },
+  {
+    "id": "volt-tackle",
+    "nameES": "Placaje Eléctrico",
+    "type": "electric"
+  },
+  {
+    "id": "bounce",
+    "nameES": "Bote",
+    "type": "flying"
+  },
+  {
+    "id": "cosmic-power",
+    "nameES": "Masa Cósmica",
+    "type": "psychic"
+  },
+  {
+    "id": "water-sport",
+    "nameES": "Hidrochorro",
+    "type": "water"
+  },
+  {
+    "id": "crush-claw",
+    "nameES": "Garra Brutal",
+    "type": "normal"
+  },
+  {
+    "id": "slack-off",
+    "nameES": "Relajo",
+    "type": "normal"
+  },
+  {
+    "id": "hydro-cannon",
+    "nameES": "Hidrocañón",
+    "type": "water"
+  },
+  {
+    "id": "aerial-ace",
+    "nameES": "Golpe Aéreo",
+    "type": "flying"
+  },
+  {
+    "id": "hyper-voice",
+    "nameES": "Vozarrón",
+    "type": "normal"
+  },
+  {
+    "id": "fake-tears",
+    "nameES": "Llanto Falso",
+    "type": "dark"
+  },
+  {
+    "id": "hammer-arm",
+    "nameES": "Machada",
+    "type": "fighting"
+  },
+  {
+    "id": "meteor-mash",
+    "nameES": "Puño Meteoro",
+    "type": "steel"
+  },
+  {
+    "id": "magical-leaf",
+    "nameES": "Hoja Mágica",
+    "type": "grass"
+  },
+  {
+    "id": "sand-tomb",
+    "nameES": "Bucle Arena",
+    "type": "ground"
+  },
+  {
+    "id": "sheer-cold",
+    "nameES": "Frío Polar",
+    "type": "ice"
+  },
+  {
+    "id": "leaf-blade",
+    "nameES": "Hoja Aguda",
+    "type": "grass"
+  },
+  {
+    "id": "aromatherapy",
+    "nameES": "Aromaterapia",
+    "type": "grass"
+  },
+  {
+    "id": "astonish",
+    "nameES": "Impresionar",
+    "type": "ghost"
+  },
+  {
+    "id": "rock-blast",
+    "nameES": "Pedrada",
+    "type": "rock"
+  },
+  {
+    "id": "miracle-eye",
+    "nameES": "Gran Ojo",
+    "type": "psychic"
+  },
+  {
+    "id": "calm-mind",
+    "nameES": "Paz Mental",
+    "type": "psychic"
+  },
+  {
+    "id": "shock-wave",
+    "nameES": "Onda Voltio",
+    "type": "electric"
+  },
+  {
+    "id": "metal-sound",
+    "nameES": "Eco Metálico",
+    "type": "steel"
+  },
+  {
+    "id": "dragon-claw",
+    "nameES": "Garra Dragón",
+    "type": "dragon"
+  },
+  {
+    "id": "doom-desire",
+    "nameES": "Deseo Oculto",
+    "type": "steel"
+  },
+  {
+    "id": "roost",
+    "nameES": "Respiro",
+    "type": "flying"
+  },
+  {
+    "id": "dragon-dance",
+    "nameES": "Danza Dragón",
+    "type": "dragon"
+  },
+  {
+    "id": "rock-tomb",
+    "nameES": "Tumba Rocas",
+    "type": "rock"
+  },
+  {
+    "id": "signal-beam",
+    "nameES": "Rayo Señal",
+    "type": "bug"
+  },
+  {
+    "id": "muddy-water",
+    "nameES": "Agua Lodosa",
+    "type": "water"
+  },
+  {
+    "id": "overheat",
+    "nameES": "Sofoco",
+    "type": "fire"
+  },
+  {
+    "id": "iron-defense",
+    "nameES": "Defensa Férrea",
+    "type": "steel"
+  },
+  {
+    "id": "gravity",
+    "nameES": "Gravedad",
+    "type": "psychic"
+  },
+  {
+    "id": "gyro-ball",
+    "nameES": "Giro Bola",
+    "type": "steel"
+  },
+  {
+    "id": "howl",
+    "nameES": "Aullido",
+    "type": "normal"
+  },
+  {
+    "id": "icicle-spear",
+    "nameES": "Carámbano",
+    "type": "ice"
+  },
+  {
+    "id": "bulk-up",
+    "nameES": "Corpulencia",
+    "type": "fighting"
+  },
+  {
+    "id": "mud-shot",
+    "nameES": "Disparo Lodo",
+    "type": "ground"
+  },
+  {
+    "id": "block",
+    "nameES": "Bloqueo",
+    "type": "normal"
+  },
+  {
+    "id": "air-cutter",
+    "nameES": "Aire Afilado",
+    "type": "flying"
+  },
+  {
+    "id": "frenzy-plant",
+    "nameES": "Planta Feroz",
+    "type": "grass"
+  },
+  {
+    "id": "grass-whistle",
+    "nameES": "Silbato",
+    "type": "grass"
+  },
+  {
+    "id": "ice-ball",
+    "nameES": "Bola Hielo",
+    "type": "ice"
+  },
+  {
+    "id": "needle-arm",
+    "nameES": "Brazo Pincho",
+    "type": "grass"
+  },
+  {
+    "id": "extrasensory",
+    "nameES": "Paranormal",
+    "type": "psychic"
+  },
+  {
+    "id": "sky-uppercut",
+    "nameES": "Gancho Alto",
+    "type": "fighting"
+  },
+  {
+    "id": "silver-wind",
+    "nameES": "Viento Plata",
+    "type": "bug"
+  },
+  {
+    "id": "shadow-punch",
+    "nameES": "Puño Sombra",
+    "type": "ghost"
+  },
+  {
+    "id": "tickle",
+    "nameES": "Cosquillas",
+    "type": "normal"
+  },
+  {
+    "id": "blast-burn",
+    "nameES": "Anillo Ígneo",
+    "type": "fire"
+  },
+  {
+    "id": "poison-fang",
+    "nameES": "Colmillo Veneno",
+    "type": "poison"
+  },
+  {
+    "id": "water-spout",
+    "nameES": "Salpicar",
+    "type": "water"
+  },
+  {
+    "id": "odor-sleuth",
+    "nameES": "Rastreo",
+    "type": "normal"
+  },
+  {
+    "id": "wake-up-slap",
+    "nameES": "Espabila",
+    "type": "fighting"
+  },
+  {
+    "id": "covet",
+    "nameES": "Antojo",
+    "type": "normal"
+  },
+  {
+    "id": "water-pulse",
+    "nameES": "Hidropulso",
+    "type": "water"
+  },
+  {
+    "id": "psycho-boost",
+    "nameES": "Psicoataque",
+    "type": "psychic"
+  },
+  {
+    "id": "weather-ball",
+    "nameES": "Meteorobola",
+    "type": "normal"
+  },
+  {
+    "id": "poison-tail",
+    "nameES": "Cola Veneno",
+    "type": "poison"
+  },
+  {
+    "id": "pluck",
+    "nameES": "Picoteo",
+    "type": "flying"
+  },
+  {
+    "id": "flare-blitz",
+    "nameES": "Envite Ígneo",
+    "type": "fire"
+  },
+  {
+    "id": "power-swap",
+    "nameES": "Cambiafuerza",
+    "type": "psychic"
+  },
+  {
+    "id": "punishment",
+    "nameES": "Castigo",
+    "type": "dark"
+  },
+  {
+    "id": "nasty-plot",
+    "nameES": "Maquinación",
+    "type": "dark"
+  },
+  {
+    "id": "guard-swap",
+    "nameES": "Cambiadefensa",
+    "type": "psychic"
+  },
+  {
+    "id": "air-slash",
+    "nameES": "Tajo Aéreo",
+    "type": "flying"
+  },
+  {
+    "id": "tailwind",
+    "nameES": "Viento Afín",
+    "type": "flying"
+  },
+  {
+    "id": "aqua-ring",
+    "nameES": "Acua Aro",
+    "type": "water"
+  },
+  {
+    "id": "dragon-rush",
+    "nameES": "Carga Dragón",
+    "type": "dragon"
+  },
+  {
+    "id": "heart-swap",
+    "nameES": "Cambiaalmas",
+    "type": "psychic"
+  },
+  {
+    "id": "bullet-punch",
+    "nameES": "Puño Bala",
+    "type": "steel"
+  },
+  {
+    "id": "healing-wish",
+    "nameES": "Deseo Cura",
+    "type": "psychic"
+  },
+  {
+    "id": "payback",
+    "nameES": "Vendetta",
+    "type": "dark"
+  },
+  {
+    "id": "dragon-pulse",
+    "nameES": "Pulso Dragón",
+    "type": "dragon"
+  },
+  {
+    "id": "vacuum-wave",
+    "nameES": "Onda Vacío",
+    "type": "fighting"
+  },
+  {
+    "id": "energy-ball",
+    "nameES": "Energibola",
+    "type": "grass"
+  },
+  {
+    "id": "drain-punch",
+    "nameES": "Puño Drenaje",
+    "type": "fighting"
+  },
+  {
+    "id": "lucky-chant",
+    "nameES": "Conjuro",
+    "type": "normal"
+  },
+  {
+    "id": "wring-out",
+    "nameES": "Estrujón",
+    "type": "normal"
+  },
+  {
+    "id": "focus-blast",
+    "nameES": "Onda Certera",
+    "type": "fighting"
+  },
+  {
+    "id": "dark-pulse",
+    "nameES": "Pulso Umbrío",
+    "type": "dark"
+  },
+  {
+    "id": "fling",
+    "nameES": "Lanzamiento",
+    "type": "dark"
+  },
+  {
+    "id": "night-slash",
+    "nameES": "Tajo Umbrío",
+    "type": "dark"
+  },
+  {
+    "id": "giga-impact",
+    "nameES": "Gigaimpacto",
+    "type": "normal"
+  },
+  {
+    "id": "aura-sphere",
+    "nameES": "Esfera Aural",
+    "type": "fighting"
+  },
+  {
+    "id": "seed-bomb",
+    "nameES": "Bomba Germen",
+    "type": "grass"
+  },
+  {
+    "id": "brave-bird",
+    "nameES": "Pájaro Osado",
+    "type": "flying"
+  },
+  {
+    "id": "aqua-tail",
+    "nameES": "Acua Cola",
+    "type": "water"
+  },
+  {
+    "id": "force-palm",
+    "nameES": "Palmeo",
+    "type": "fighting"
+  },
+  {
+    "id": "me-first",
+    "nameES": "Yo Primero",
+    "type": "normal"
+  },
+  {
+    "id": "u-turn",
+    "nameES": "Ida y Vuelta",
+    "type": "bug"
+  },
+  {
+    "id": "ice-shard",
+    "nameES": "Esquirla Helada",
+    "type": "ice"
+  },
+  {
+    "id": "feint",
+    "nameES": "Amago",
+    "type": "normal"
+  },
+  {
+    "id": "embargo",
+    "nameES": "Embargo",
+    "type": "dark"
+  },
+  {
+    "id": "poison-jab",
+    "nameES": "Puya Nociva",
+    "type": "poison"
+  },
+  {
+    "id": "toxic-spikes",
+    "nameES": "Púas Tóxicas",
+    "type": "poison"
+  },
+  {
+    "id": "x-scissor",
+    "nameES": "Tijera X",
+    "type": "bug"
+  },
+  {
+    "id": "power-gem",
+    "nameES": "Joya de Luz",
+    "type": "rock"
+  },
+  {
+    "id": "gastro-acid",
+    "nameES": "Bilis",
+    "type": "poison"
+  },
+  {
+    "id": "copycat",
+    "nameES": "Copión",
+    "type": "normal"
+  },
+  {
+    "id": "rock-polish",
+    "nameES": "Pulimento",
+    "type": "rock"
+  },
+  {
+    "id": "sucker-punch",
+    "nameES": "Golpe Bajo",
+    "type": "dark"
+  },
+  {
+    "id": "avalanche",
+    "nameES": "Alud",
+    "type": "ice"
+  },
+  {
+    "id": "power-trick",
+    "nameES": "Truco Fuerza",
+    "type": "psychic"
+  },
+  {
+    "id": "trump-card",
+    "nameES": "As Oculto",
+    "type": "normal"
+  },
+  {
+    "id": "magnet-rise",
+    "nameES": "Levitón",
+    "type": "electric"
+  },
+  {
+    "id": "earth-power",
+    "nameES": "Tierra Viva",
+    "type": "ground"
+  },
+  {
+    "id": "natural-gift",
+    "nameES": "Don Natural",
+    "type": "normal"
+  },
+  {
+    "id": "close-combat",
+    "nameES": "A Bocajarro",
+    "type": "fighting"
+  },
+  {
+    "id": "metal-burst",
+    "nameES": "Represión Metal",
+    "type": "steel"
+  },
+  {
+    "id": "acupressure",
+    "nameES": "Acupresión",
+    "type": "normal"
+  },
+  {
+    "id": "heal-block",
+    "nameES": "Anticura",
+    "type": "psychic"
+  },
+  {
+    "id": "switcheroo",
+    "nameES": "Trapicheo",
+    "type": "dark"
+  },
+  {
+    "id": "worry-seed",
+    "nameES": "Abatidoras",
+    "type": "grass"
+  },
+  {
+    "id": "brine",
+    "nameES": "Salmuera",
+    "type": "water"
+  },
+  {
+    "id": "last-resort",
+    "nameES": "Última Baza",
+    "type": "normal"
+  },
+  {
+    "id": "bug-buzz",
+    "nameES": "Zumbido",
+    "type": "bug"
+  },
+  {
+    "id": "psycho-shift",
+    "nameES": "Psicocambio",
+    "type": "psychic"
+  },
+  {
+    "id": "assurance",
+    "nameES": "Buena Baza",
+    "type": "dark"
+  },
+  {
+    "id": "flash-cannon",
+    "nameES": "Cañón Resplandor",
+    "type": "steel"
+  },
+  {
+    "id": "shadow-claw",
+    "nameES": "Garra Umbría",
+    "type": "ghost"
+  },
+  {
+    "id": "mirror-shot",
+    "nameES": "Disparo Espejo",
+    "type": "steel"
+  },
+  {
+    "id": "psycho-cut",
+    "nameES": "Psicocorte",
+    "type": "psychic"
+  },
+  {
+    "id": "captivate",
+    "nameES": "Seducción",
+    "type": "normal"
+  },
+  {
+    "id": "dark-void",
+    "nameES": "Brecha Negra",
+    "type": "dark"
+  },
+  {
+    "id": "wonder-room",
+    "nameES": "Zona Extraña",
+    "type": "psychic"
+  },
+  {
+    "id": "magic-room",
+    "nameES": "Zona Mágica",
+    "type": "psychic"
+  },
+  {
+    "id": "iron-head",
+    "nameES": "Cabeza de Hierro",
+    "type": "steel"
+  },
+  {
+    "id": "leaf-storm",
+    "nameES": "Lluevehojas",
+    "type": "grass"
+  },
+  {
+    "id": "shadow-sneak",
+    "nameES": "Sombra Vil",
+    "type": "ghost"
+  },
+  {
+    "id": "fire-fang",
+    "nameES": "Colmillo Ígneo",
+    "type": "fire"
+  },
+  {
+    "id": "power-whip",
+    "nameES": "Latigazo",
+    "type": "grass"
+  },
+  {
+    "id": "defog",
+    "nameES": "Despejar",
+    "type": "flying"
+  },
+  {
+    "id": "zen-headbutt",
+    "nameES": "Cabezazo Zen",
+    "type": "psychic"
+  },
+  {
+    "id": "stealth-rock",
+    "nameES": "Trampa Rocas",
+    "type": "rock"
+  },
+  {
+    "id": "psyshock",
+    "nameES": "Psicocarga",
+    "type": "psychic"
+  },
+  {
+    "id": "head-smash",
+    "nameES": "Testarazo",
+    "type": "rock"
+  },
+  {
+    "id": "guard-split",
+    "nameES": "Isoguardia",
+    "type": "psychic"
+  },
+  {
+    "id": "stone-edge",
+    "nameES": "Roca Afilada",
+    "type": "rock"
+  },
+  {
+    "id": "trick-room",
+    "nameES": "Espacio Raro",
+    "type": "psychic"
+  },
+  {
+    "id": "discharge",
+    "nameES": "Chispazo",
+    "type": "electric"
+  },
+  {
+    "id": "hone-claws",
+    "nameES": "Afilagarras",
+    "type": "dark"
+  },
+  {
+    "id": "lava-plume",
+    "nameES": "Humareda",
+    "type": "fire"
+  },
+  {
+    "id": "cross-poison",
+    "nameES": "Veneno X",
+    "type": "poison"
+  },
+  {
+    "id": "heal-order",
+    "nameES": "Auxilio",
+    "type": "bug"
+  },
+  {
+    "id": "venoshock",
+    "nameES": "Carga Tóxica",
+    "type": "poison"
+  },
+  {
+    "id": "telekinesis",
+    "nameES": "Telequinesis",
+    "type": "psychic"
+  },
+  {
+    "id": "charge-beam",
+    "nameES": "Rayo Carga",
+    "type": "electric"
+  },
+  {
+    "id": "aqua-jet",
+    "nameES": "Acua Jet",
+    "type": "water"
+  },
+  {
+    "id": "roar-of-time",
+    "nameES": "Distorsión",
+    "type": "dragon"
+  },
+  {
+    "id": "storm-throw",
+    "nameES": "Llave Corsé",
+    "type": "fighting"
+  },
+  {
+    "id": "power-split",
+    "nameES": "Isofuerza",
+    "type": "psychic"
+  },
+  {
+    "id": "thunder-fang",
+    "nameES": "Colmillo Rayo",
+    "type": "electric"
+  },
+  {
+    "id": "double-hit",
+    "nameES": "Doble Golpe",
+    "type": "normal"
+  },
+  {
+    "id": "rock-climb",
+    "nameES": "Treparrocas",
+    "type": "normal"
+  },
+  {
+    "id": "grass-knot",
+    "nameES": "Hierba Lazo",
+    "type": "grass"
+  },
+  {
+    "id": "judgment",
+    "nameES": "Sentencia",
+    "type": "normal"
+  },
+  {
+    "id": "ice-fang",
+    "nameES": "Colmillo Hielo",
+    "type": "ice"
+  },
+  {
+    "id": "shadow-force",
+    "nameES": "Golpe Umbrío",
+    "type": "ghost"
+  },
+  {
+    "id": "mud-bomb",
+    "nameES": "Bomba Fango",
+    "type": "ground"
+  },
+  {
+    "id": "rock-wrecker",
+    "nameES": "Romperrocas",
+    "type": "rock"
+  },
+  {
+    "id": "ominous-wind",
+    "nameES": "Viento Aciago",
+    "type": "ghost"
+  },
+  {
+    "id": "attack-order",
+    "nameES": "Al Ataque",
+    "type": "bug"
+  },
+  {
+    "id": "autotomize",
+    "nameES": "Aligerar",
+    "type": "steel"
+  },
+  {
+    "id": "spacial-rend",
+    "nameES": "Corte Vacío",
+    "type": "dragon"
+  },
+  {
+    "id": "lunar-dance",
+    "nameES": "Danza Lunar",
+    "type": "psychic"
+  },
+  {
+    "id": "smack-down",
+    "nameES": "Antiaéreo",
+    "type": "rock"
+  },
+  {
+    "id": "gunk-shot",
+    "nameES": "Lanzamugre",
+    "type": "poison"
+  },
+  {
+    "id": "chatter",
+    "nameES": "Cháchara",
+    "type": "flying"
+  },
+  {
+    "id": "rage-powder",
+    "nameES": "Polvo Ira",
+    "type": "bug"
+  },
+  {
+    "id": "wood-hammer",
+    "nameES": "Mazazo",
+    "type": "grass"
+  },
+  {
+    "id": "wide-guard",
+    "nameES": "Vasta Guardia",
+    "type": "rock"
+  },
+  {
+    "id": "magma-storm",
+    "nameES": "Lluvia Ígnea",
+    "type": "fire"
+  },
+  {
+    "id": "bug-bite",
+    "nameES": "Picadura",
+    "type": "bug"
+  },
+  {
+    "id": "crush-grip",
+    "nameES": "Agarrón",
+    "type": "normal"
+  },
+  {
+    "id": "draco-meteor",
+    "nameES": "Cometa Draco",
+    "type": "dragon"
+  },
+  {
+    "id": "defend-order",
+    "nameES": "A Defender",
+    "type": "bug"
+  },
+  {
+    "id": "magnet-bomb",
+    "nameES": "Bomba Imán",
+    "type": "steel"
+  },
+  {
+    "id": "seed-flare",
+    "nameES": "Fulgor Semilla",
+    "type": "grass"
+  },
+  {
+    "id": "quiver-dance",
+    "nameES": "Danza Aleteo",
+    "type": "bug"
+  },
+  {
+    "id": "wild-charge",
+    "nameES": "Voltio Cruel",
+    "type": "electric"
+  },
+  {
+    "id": "ally-switch",
+    "nameES": "Cambio de Banda",
+    "type": "psychic"
+  },
+  {
+    "id": "shift-gear",
+    "nameES": "Cambio de Marcha",
+    "type": "steel"
+  },
+  {
+    "id": "clear-smog",
+    "nameES": "Niebla Clara",
+    "type": "poison"
+  },
+  {
+    "id": "acid-spray",
+    "nameES": "Bomba Ácida",
+    "type": "poison"
+  },
+  {
+    "id": "round",
+    "nameES": "Canon",
+    "type": "normal"
+  },
+  {
+    "id": "entrainment",
+    "nameES": "Danza Amiga",
+    "type": "normal"
+  },
+  {
+    "id": "chip-away",
+    "nameES": "Guardia Baja",
+    "type": "normal"
+  },
+  {
+    "id": "flame-charge",
+    "nameES": "Nitrocarga",
+    "type": "fire"
+  },
+  {
+    "id": "heavy-slam",
+    "nameES": "Cuerpo Pesado",
+    "type": "steel"
+  },
+  {
+    "id": "low-sweep",
+    "nameES": "Puntapié",
+    "type": "fighting"
+  },
+  {
+    "id": "after-you",
+    "nameES": "Cede Paso",
+    "type": "normal"
+  },
+  {
+    "id": "frost-breath",
+    "nameES": "Vaho Gélido",
+    "type": "ice"
+  },
+  {
+    "id": "simple-beam",
+    "nameES": "Onda Simple",
+    "type": "normal"
+  },
+  {
+    "id": "cotton-guard",
+    "nameES": "Rizo Algodón",
+    "type": "grass"
+  },
+  {
+    "id": "bestow",
+    "nameES": "Ofrenda",
+    "type": "normal"
+  },
+  {
+    "id": "bulldoze",
+    "nameES": "Terratemblor",
+    "type": "ground"
+  },
+  {
+    "id": "horn-leech",
+    "nameES": "Asta Drenaje",
+    "type": "grass"
+  },
+  {
+    "id": "water-pledge",
+    "nameES": "Voto Agua",
+    "type": "water"
+  },
+  {
+    "id": "psystrike",
+    "nameES": "Onda Mental",
+    "type": "psychic"
+  },
+  {
+    "id": "steamroller",
+    "nameES": "Rodillo de Púas",
+    "type": "bug"
+  },
+  {
+    "id": "electroweb",
+    "nameES": "Electrotela",
+    "type": "electric"
+  },
+  {
+    "id": "volt-switch",
+    "nameES": "Voltiocambio",
+    "type": "electric"
+  },
+  {
+    "id": "work-up",
+    "nameES": "Avivar",
+    "type": "normal"
+  },
+  {
+    "id": "flame-burst",
+    "nameES": "Pirotecnia",
+    "type": "fire"
+  },
+  {
+    "id": "quash",
+    "nameES": "Último Lugar",
+    "type": "dark"
+  },
+  {
+    "id": "reflect-type",
+    "nameES": "Clonatipo",
+    "type": "normal"
+  },
+  {
+    "id": "hex",
+    "nameES": "Infortunio",
+    "type": "ghost"
+  },
+  {
+    "id": "acrobatics",
+    "nameES": "Acróbata",
+    "type": "flying"
+  },
+  {
+    "id": "heal-pulse",
+    "nameES": "Pulso Cura",
+    "type": "psychic"
+  },
+  {
+    "id": "dragon-tail",
+    "nameES": "Cola Dragón",
+    "type": "dragon"
+  },
+  {
+    "id": "stored-power",
+    "nameES": "Poder Reserva",
+    "type": "psychic"
+  },
+  {
+    "id": "synchronoise",
+    "nameES": "Sincrorruido",
+    "type": "psychic"
+  },
+  {
+    "id": "incinerate",
+    "nameES": "Calcinación",
+    "type": "fire"
+  },
+  {
+    "id": "shell-smash",
+    "nameES": "Rompecoraza",
+    "type": "normal"
+  },
+  {
+    "id": "sludge-wave",
+    "nameES": "Onda Tóxica",
+    "type": "poison"
+  },
+  {
+    "id": "heat-crash",
+    "nameES": "Golpe Calor",
+    "type": "fire"
+  },
+  {
+    "id": "final-gambit",
+    "nameES": "Sacrificio",
+    "type": "fighting"
+  },
+  {
+    "id": "foul-play",
+    "nameES": "Juego Sucio",
+    "type": "dark"
+  },
+  {
+    "id": "sky-drop",
+    "nameES": "Caída Libre",
+    "type": "flying"
+  },
+  {
+    "id": "leaf-tornado",
+    "nameES": "Ciclón de Hojas",
+    "type": "grass"
+  },
+  {
+    "id": "soak",
+    "nameES": "Empapar",
+    "type": "water"
+  },
+  {
+    "id": "electro-ball",
+    "nameES": "Bola Voltio",
+    "type": "electric"
+  },
+  {
+    "id": "grass-pledge",
+    "nameES": "Voto Planta",
+    "type": "grass"
+  },
+  {
+    "id": "dual-chop",
+    "nameES": "Golpe Bis",
+    "type": "dragon"
+  },
+  {
+    "id": "circle-throw",
+    "nameES": "Llave Giro",
+    "type": "fighting"
+  },
+  {
+    "id": "retaliate",
+    "nameES": "Represalia",
+    "type": "normal"
+  },
+  {
+    "id": "heart-stamp",
+    "nameES": "Arrumaco",
+    "type": "psychic"
+  },
+  {
+    "id": "razor-shell",
+    "nameES": "Concha Filo",
+    "type": "water"
+  },
+  {
+    "id": "sacred-sword",
+    "nameES": "Espada Santa",
+    "type": "fighting"
+  },
+  {
+    "id": "inferno",
+    "nameES": "Infierno",
+    "type": "fire"
+  },
+  {
+    "id": "night-daze",
+    "nameES": "Pulso Noche",
+    "type": "dark"
+  },
+  {
+    "id": "fire-pledge",
+    "nameES": "Voto Fuego",
+    "type": "fire"
+  },
+  {
+    "id": "echoed-voice",
+    "nameES": "Eco Voz",
+    "type": "normal"
+  },
+  {
+    "id": "struggle-bug",
+    "nameES": "Estoicismo",
+    "type": "bug"
+  },
+  {
+    "id": "drill-run",
+    "nameES": "Taladradora",
+    "type": "ground"
+  },
+  {
+    "id": "coil",
+    "nameES": "Enrosque",
+    "type": "poison"
+  },
+  {
+    "id": "quick-guard",
+    "nameES": "Anticipo",
+    "type": "fighting"
+  },
+  {
+    "id": "scald",
+    "nameES": "Escaldar",
+    "type": "water"
+  },
+  {
+    "id": "rototiller",
+    "nameES": "Fertilizante",
+    "type": "ground"
+  },
+  {
+    "id": "grassy-terrain",
+    "nameES": "Campo de Hierba",
+    "type": "grass"
+  },
+  {
+    "id": "powder",
+    "nameES": "Polvo Explosivo",
+    "type": "bug"
+  },
+  {
+    "id": "head-charge",
+    "nameES": "Ariete",
+    "type": "normal"
+  },
+  {
+    "id": "mat-block",
+    "nameES": "Escudo Tatami",
+    "type": "fighting"
+  },
+  {
+    "id": "fusion-flare",
+    "nameES": "Llama Fusión",
+    "type": "fire"
+  },
+  {
+    "id": "techno-blast",
+    "nameES": "Tecno Shock",
+    "type": "normal"
+  },
+  {
+    "id": "hurricane",
+    "nameES": "Vendaval",
+    "type": "flying"
+  },
+  {
+    "id": "blue-flare",
+    "nameES": "Llama Azul",
+    "type": "fire"
+  },
+  {
+    "id": "flying-press",
+    "nameES": "Plancha Voladora",
+    "type": "fighting"
+  },
+  {
+    "id": "freeze-shock",
+    "nameES": "Rayo Gélido",
+    "type": "ice"
+  },
+  {
+    "id": "searing-shot",
+    "nameES": "Bomba Ígnea",
+    "type": "fire"
+  },
+  {
+    "id": "venom-drench",
+    "nameES": "Trampa Venenosa",
+    "type": "poison"
+  },
+  {
+    "id": "spiky-shield",
+    "nameES": "Barrera Espinosa",
+    "type": "grass"
+  },
+  {
+    "id": "eerie-impulse",
+    "nameES": "Onda Anómala",
+    "type": "electric"
+  },
+  {
+    "id": "topsy-turvy",
+    "nameES": "Reversión",
+    "type": "dark"
+  },
+  {
+    "id": "play-nice",
+    "nameES": "Camaradería",
+    "type": "normal"
+  },
+  {
+    "id": "fell-stinger",
+    "nameES": "Aguijón Letal",
+    "type": "bug"
+  },
+  {
+    "id": "confide",
+    "nameES": "Confidencia",
+    "type": "normal"
+  },
+  {
+    "id": "hyperspace-hole",
+    "nameES": "Paso Dimensional",
+    "type": "psychic"
+  },
+  {
+    "id": "sticky-web",
+    "nameES": "Red Viscosa",
+    "type": "bug"
+  },
+  {
+    "id": "misty-terrain",
+    "nameES": "Campo de Niebla",
+    "type": "fairy"
+  },
+  {
+    "id": "moonblast",
+    "nameES": "Fuerza Lunar",
+    "type": "fairy"
+  },
+  {
+    "id": "belch",
+    "nameES": "Eructo",
+    "type": "poison"
+  },
+  {
+    "id": "parting-shot",
+    "nameES": "Última Palabra",
+    "type": "dark"
+  },
+  {
+    "id": "flower-shield",
+    "nameES": "Defensa Floral",
+    "type": "fairy"
+  },
+  {
+    "id": "boomburst",
+    "nameES": "Estruendo",
+    "type": "normal"
+  },
+  {
+    "id": "mystical-fire",
+    "nameES": "Llama Embrujada",
+    "type": "fire"
+  },
+  {
+    "id": "electrify",
+    "nameES": "Electrificación",
+    "type": "electric"
+  },
+  {
+    "id": "draining-kiss",
+    "nameES": "Beso Drenaje",
+    "type": "fairy"
+  },
+  {
+    "id": "aromatic-mist",
+    "nameES": "Niebla Aromática",
+    "type": "fairy"
+  },
+  {
+    "id": "gear-grind",
+    "nameES": "Rueda Doble",
+    "type": "steel"
+  },
+  {
+    "id": "freeze-dry",
+    "nameES": "Liofilización",
+    "type": "ice"
+  },
+  {
+    "id": "water-shuriken",
+    "nameES": "Shuriken de Agua",
+    "type": "water"
+  },
+  {
+    "id": "crafty-shield",
+    "nameES": "Truco Defensa",
+    "type": "fairy"
+  },
+  {
+    "id": "glaciate",
+    "nameES": "Mundo Gélido",
+    "type": "ice"
+  },
+  {
+    "id": "ion-deluge",
+    "nameES": "Cortina Plasma",
+    "type": "electric"
+  },
+  {
+    "id": "ice-burn",
+    "nameES": "Llama Gélida",
+    "type": "ice"
+  },
+  {
+    "id": "disarming-voice",
+    "nameES": "Voz Cautivadora",
+    "type": "fairy"
+  },
+  {
+    "id": "forests-curse",
+    "nameES": "Condena Silvana",
+    "type": "grass"
+  },
+  {
+    "id": "fusion-bolt",
+    "nameES": "Rayo Fusión",
+    "type": "electric"
+  },
+  {
+    "id": "diamond-storm",
+    "nameES": "Tormenta de Diamantes",
+    "type": "rock"
+  },
+  {
+    "id": "relic-song",
+    "nameES": "Canto Arcaico",
+    "type": "normal"
+  },
+  {
+    "id": "v-create",
+    "nameES": "V de Fuego",
+    "type": "fire"
+  },
+  {
+    "id": "phantom-force",
+    "nameES": "Golpe Fantasma",
+    "type": "ghost"
+  },
+  {
+    "id": "parabolic-charge",
+    "nameES": "Carga Parábola",
+    "type": "electric"
+  },
+  {
+    "id": "petal-blizzard",
+    "nameES": "Tormenta Floral",
+    "type": "grass"
+  },
+  {
+    "id": "steam-eruption",
+    "nameES": "Chorro de Vapor",
+    "type": "water"
+  },
+  {
+    "id": "tail-slap",
+    "nameES": "Plumerazo",
+    "type": "normal"
+  },
+  {
+    "id": "bolt-strike",
+    "nameES": "Ataque Fulgor",
+    "type": "electric"
+  },
+  {
+    "id": "trick-or-treat",
+    "nameES": "Halloween",
+    "type": "ghost"
+  },
+  {
+    "id": "noble-roar",
+    "nameES": "Rugido de Guerra",
+    "type": "normal"
+  },
+  {
+    "id": "snarl",
+    "nameES": "Alarido",
+    "type": "dark"
+  },
+  {
+    "id": "fairy-lock",
+    "nameES": "Cerrojo Feérico",
+    "type": "fairy"
+  },
+  {
+    "id": "play-rough",
+    "nameES": "Carantoña",
+    "type": "fairy"
+  },
+  {
+    "id": "kings-shield",
+    "nameES": "Escudo Real",
+    "type": "steel"
+  },
+  {
+    "id": "secret-sword",
+    "nameES": "Sable Místico",
+    "type": "fighting"
+  },
+  {
+    "id": "fairy-wind",
+    "nameES": "Viento Feérico",
+    "type": "fairy"
+  },
+  {
+    "id": "icicle-crash",
+    "nameES": "Chuzos",
+    "type": "ice"
+  },
+  {
+    "id": "fiery-dance",
+    "nameES": "Danza Llama",
+    "type": "fire"
+  },
+  {
+    "id": "inferno-overdrive--special",
+    "nameES": "Hecatombe Pírica",
+    "type": "fire"
+  },
+  {
+    "id": "never-ending-nightmare--physical",
+    "nameES": "Presa Espectral",
+    "type": "ghost"
+  },
+  {
+    "id": "supersonic-skystrike--special",
+    "nameES": "Picado Supersónico",
+    "type": "flying"
+  },
+  {
+    "id": "tectonic-rage--special",
+    "nameES": "Barrena Telúrica",
+    "type": "ground"
+  },
+  {
+    "id": "black-hole-eclipse--special",
+    "nameES": "Agujero Negro Aniquilador",
+    "type": "dark"
+  },
+  {
+    "id": "magnetic-flux",
+    "nameES": "Aura Magnética",
+    "type": "electric"
+  },
+  {
+    "id": "infestation",
+    "nameES": "Acoso",
+    "type": "bug"
+  },
+  {
+    "id": "electric-terrain",
+    "nameES": "Campo Eléctrico",
+    "type": "electric"
+  },
+  {
+    "id": "black-hole-eclipse--physical",
+    "nameES": "Agujero Negro Aniquilador",
+    "type": "dark"
+  },
+  {
+    "id": "first-impression",
+    "nameES": "Escaramuza",
+    "type": "bug"
+  },
+  {
+    "id": "savage-spin-out--special",
+    "nameES": "Guadaña Sedosa",
+    "type": "bug"
+  },
+  {
+    "id": "origin-pulse",
+    "nameES": "Pulso Primigenio",
+    "type": "water"
+  },
+  {
+    "id": "shore-up",
+    "nameES": "Recogearena",
+    "type": "ground"
+  },
+  {
+    "id": "shattered-psyche--physical",
+    "nameES": "Disruptor Psíquico",
+    "type": "psychic"
+  },
+  {
+    "id": "savage-spin-out--physical",
+    "nameES": "Guadaña Sedosa",
+    "type": "bug"
+  },
+  {
+    "id": "corkscrew-crash--physical",
+    "nameES": "Hélice Trepanadora",
+    "type": "steel"
+  },
+  {
+    "id": "subzero-slammer--physical",
+    "nameES": "Crioaliento Despiadado",
+    "type": "ice"
+  },
+  {
+    "id": "hold-back",
+    "nameES": "Clemencia",
+    "type": "normal"
+  },
+  {
+    "id": "celebrate",
+    "nameES": "Celebración",
+    "type": "normal"
+  },
+  {
+    "id": "lands-wrath",
+    "nameES": "Fuerza Telúrica",
+    "type": "ground"
+  },
+  {
+    "id": "gigavolt-havoc--physical",
+    "nameES": "Gigavoltio Destructor",
+    "type": "electric"
+  },
+  {
+    "id": "continental-crush--physical",
+    "nameES": "Aplastamiento Gigalítico",
+    "type": "rock"
+  },
+  {
+    "id": "hold-hands",
+    "nameES": "Manos Juntas",
+    "type": "normal"
+  },
+  {
+    "id": "twinkle-tackle--physical",
+    "nameES": "Arrumaco Sideral",
+    "type": "fairy"
+  },
+  {
+    "id": "all-out-pummeling--special",
+    "nameES": "Ráfaga Demoledora",
+    "type": "fighting"
+  },
+  {
+    "id": "acid-downpour--special",
+    "nameES": "Diluvio Corrosivo",
+    "type": "poison"
+  },
+  {
+    "id": "shattered-psyche--special",
+    "nameES": "Disruptor Psíquico",
+    "type": "psychic"
+  },
+  {
+    "id": "power-up-punch",
+    "nameES": "Puño Incremento",
+    "type": "fighting"
+  },
+  {
+    "id": "bloom-doom--special",
+    "nameES": "Megatón Floral",
+    "type": "grass"
+  },
+  {
+    "id": "oblivion-wing",
+    "nameES": "Ala Mortífera",
+    "type": "flying"
+  },
+  {
+    "id": "hydro-vortex--special",
+    "nameES": "Hidrovórtice Abisal",
+    "type": "water"
+  },
+  {
+    "id": "happy-hour",
+    "nameES": "Paga Extra",
+    "type": "normal"
+  },
+  {
+    "id": "tectonic-rage--physical",
+    "nameES": "Barrena Telúrica",
+    "type": "ground"
+  },
+  {
+    "id": "breakneck-blitz--physical",
+    "nameES": "Carrera Arrolladora",
+    "type": "normal"
+  },
+  {
+    "id": "twinkle-tackle--special",
+    "nameES": "Arrumaco Sideral",
+    "type": "fairy"
+  },
+  {
+    "id": "bloom-doom--physical",
+    "nameES": "Megatón Floral",
+    "type": "grass"
+  },
+  {
+    "id": "catastropika",
+    "nameES": "Pikavoltio Letal",
+    "type": "electric"
+  },
+  {
+    "id": "inferno-overdrive--physical",
+    "nameES": "Hecatombe Pírica",
+    "type": "fire"
+  },
+  {
+    "id": "breakneck-blitz--special",
+    "nameES": "Carrera Arrolladora",
+    "type": "normal"
+  },
+  {
+    "id": "supersonic-skystrike--physical",
+    "nameES": "Picado Supersónico",
+    "type": "flying"
+  },
+  {
+    "id": "never-ending-nightmare--special",
+    "nameES": "Presa Espectral",
+    "type": "ghost"
+  },
+  {
+    "id": "dazzling-gleam",
+    "nameES": "Brillo Mágico",
+    "type": "fairy"
+  },
+  {
+    "id": "subzero-slammer--special",
+    "nameES": "Crioaliento Despiadado",
+    "type": "ice"
+  },
+  {
+    "id": "devastating-drake--special",
+    "nameES": "Dracoaliento Devastador",
+    "type": "dragon"
+  },
+  {
+    "id": "thousand-arrows",
+    "nameES": "Mil Flechas",
+    "type": "ground"
+  },
+  {
+    "id": "devastating-drake--physical",
+    "nameES": "Dracoaliento Devastador",
+    "type": "dragon"
+  },
+  {
+    "id": "gigavolt-havoc--special",
+    "nameES": "Gigavoltio Destructor",
+    "type": "electric"
+  },
+  {
+    "id": "hyperspace-fury",
+    "nameES": "Cerco Dimensión",
+    "type": "dark"
+  },
+  {
+    "id": "precipice-blades",
+    "nameES": "Filo del Abismo",
+    "type": "ground"
+  },
+  {
+    "id": "geomancy",
+    "nameES": "Geocontrol",
+    "type": "fairy"
+  },
+  {
+    "id": "corkscrew-crash--special",
+    "nameES": "Hélice Trepanadora",
+    "type": "steel"
+  },
+  {
+    "id": "acid-downpour--physical",
+    "nameES": "Diluvio Corrosivo",
+    "type": "poison"
+  },
+  {
+    "id": "dragon-ascent",
+    "nameES": "Ascenso Draco",
+    "type": "flying"
+  },
+  {
+    "id": "all-out-pummeling--physical",
+    "nameES": "Ráfaga Demoledora",
+    "type": "fighting"
+  },
+  {
+    "id": "thousand-waves",
+    "nameES": "Mil Temblores",
+    "type": "ground"
+  },
+  {
+    "id": "nuzzle",
+    "nameES": "Moflete Estático",
+    "type": "electric"
+  },
+  {
+    "id": "hydro-vortex--physical",
+    "nameES": "Hidrovórtice Abisal",
+    "type": "water"
+  },
+  {
+    "id": "baby-doll-eyes",
+    "nameES": "Ojitos Tiernos",
+    "type": "fairy"
+  },
+  {
+    "id": "continental-crush--special",
+    "nameES": "Aplastamiento Gigalítico",
+    "type": "rock"
+  },
+  {
+    "id": "light-of-ruin",
+    "nameES": "Luz Aniquiladora",
+    "type": "fairy"
+  },
+  {
+    "id": "stomping-tantrum",
+    "nameES": "Pataleta",
+    "type": "ground"
+  },
+  {
+    "id": "psychic-terrain",
+    "nameES": "Campo Psíquico",
+    "type": "psychic"
+  },
+  {
+    "id": "extreme-evoboost",
+    "nameES": "Novena Potencia",
+    "type": "normal"
+  },
+  {
+    "id": "dragon-hammer",
+    "nameES": "Martillo Dragón",
+    "type": "dragon"
+  },
+  {
+    "id": "brutal-swing",
+    "nameES": "Giro Vil",
+    "type": "dark"
+  },
+  {
+    "id": "baneful-bunker",
+    "nameES": "Búnker",
+    "type": "poison"
+  },
+  {
+    "id": "darkest-lariat",
+    "nameES": "Lariat Oscuro",
+    "type": "dark"
+  },
+  {
+    "id": "ice-hammer",
+    "nameES": "Martillo Hielo",
+    "type": "ice"
+  },
+  {
+    "id": "fleur-cannon",
+    "nameES": "Cañón Floral",
+    "type": "fairy"
+  },
+  {
+    "id": "anchor-shot",
+    "nameES": "Anclaje",
+    "type": "steel"
+  },
+  {
+    "id": "sinister-arrow-raid",
+    "nameES": "Aluvión de Flechas Sombrías",
+    "type": "ghost"
+  },
+  {
+    "id": "strength-sap",
+    "nameES": "Absorbefuerza",
+    "type": "grass"
+  },
+  {
+    "id": "burn-up",
+    "nameES": "Llama Final",
+    "type": "fire"
+  },
+  {
+    "id": "smart-strike",
+    "nameES": "Cuerno Certero",
+    "type": "steel"
+  },
+  {
+    "id": "solar-blade",
+    "nameES": "Cuchilla Solar",
+    "type": "grass"
+  },
+  {
+    "id": "pollen-puff",
+    "nameES": "Bola de Polen",
+    "type": "bug"
+  },
+  {
+    "id": "throat-chop",
+    "nameES": "Golpe Mordaza",
+    "type": "dark"
+  },
+  {
+    "id": "shell-trap",
+    "nameES": "Coraza Trampa",
+    "type": "fire"
+  },
+  {
+    "id": "liquidation",
+    "nameES": "Hidroariete",
+    "type": "water"
+  },
+  {
+    "id": "spotlight",
+    "nameES": "Foco",
+    "type": "normal"
+  },
+  {
+    "id": "aurora-veil",
+    "nameES": "Velo Aurora",
+    "type": "ice"
+  },
+  {
+    "id": "prismatic-laser",
+    "nameES": "Láser Prisma",
+    "type": "psychic"
+  },
+  {
+    "id": "tearful-look",
+    "nameES": "Ojos Llorosos",
+    "type": "normal"
+  },
+  {
+    "id": "floral-healing",
+    "nameES": "Cura Floral",
+    "type": "fairy"
+  },
+  {
+    "id": "pulverizing-pancake",
+    "nameES": "Arrojo Intempestivo",
+    "type": "normal"
+  },
+  {
+    "id": "laser-focus",
+    "nameES": "Aguzar",
+    "type": "normal"
+  },
+  {
+    "id": "zing-zap",
+    "nameES": "Electropunzada",
+    "type": "electric"
+  },
+  {
+    "id": "natures-madness",
+    "nameES": "Furia Natural",
+    "type": "fairy"
+  },
+  {
+    "id": "spirit-shackle",
+    "nameES": "Puntada Sombría",
+    "type": "ghost"
+  },
+  {
+    "id": "revelation-dance",
+    "nameES": "Danza Despertar",
+    "type": "normal"
+  },
+  {
+    "id": "fire-lash",
+    "nameES": "Látigo Ígneo",
+    "type": "fire"
+  },
+  {
+    "id": "lunge",
+    "nameES": "Plancha",
+    "type": "bug"
+  },
+  {
+    "id": "moongeist-beam",
+    "nameES": "Rayo Umbrío",
+    "type": "ghost"
+  },
+  {
+    "id": "toxic-thread",
+    "nameES": "Hilo Venenoso",
+    "type": "poison"
+  },
+  {
+    "id": "beak-blast",
+    "nameES": "Pico Cañón",
+    "type": "flying"
+  },
+  {
+    "id": "spectral-thief",
+    "nameES": "Robasombra",
+    "type": "ghost"
+  },
+  {
+    "id": "purify",
+    "nameES": "Purificación",
+    "type": "poison"
+  },
+  {
+    "id": "clanging-scales",
+    "nameES": "Fragor Escamas",
+    "type": "dragon"
+  },
+  {
+    "id": "accelerock",
+    "nameES": "Roca Veloz",
+    "type": "rock"
+  },
+  {
+    "id": "multi-attack",
+    "nameES": "Multiataque",
+    "type": "normal"
+  },
+  {
+    "id": "sunsteel-strike",
+    "nameES": "Meteoimpacto",
+    "type": "steel"
+  },
+  {
+    "id": "core-enforcer",
+    "nameES": "Núcleo Castigo",
+    "type": "dragon"
+  },
+  {
+    "id": "guardian-of-alola",
+    "nameES": "Cólera del Guardián",
+    "type": "fairy"
+  },
+  {
+    "id": "power-trip",
+    "nameES": "Chulería",
+    "type": "dark"
+  },
+  {
+    "id": "oceanic-operetta",
+    "nameES": "Sinfonía de la Diva Marina",
+    "type": "water"
+  },
+  {
+    "id": "mind-blown",
+    "nameES": "Cabeza Sorpresa",
+    "type": "fire"
+  },
+  {
+    "id": "soul-stealing-7-star-strike",
+    "nameES": "Constelación Robaalmas",
+    "type": "ghost"
+  },
+  {
+    "id": "psychic-fangs",
+    "nameES": "Psicocolmillo",
+    "type": "psychic"
+  },
+  {
+    "id": "malicious-moonsault",
+    "nameES": "Hiperplancha Oscura",
+    "type": "dark"
+  },
+  {
+    "id": "speed-swap",
+    "nameES": "Cambiavelocidad",
+    "type": "psychic"
+  },
+  {
+    "id": "instruct",
+    "nameES": "Mandato",
+    "type": "psychic"
+  },
+  {
+    "id": "genesis-supernova",
+    "nameES": "Supernova Original",
+    "type": "psychic"
+  },
+  {
+    "id": "leafage",
+    "nameES": "Follaje",
+    "type": "grass"
+  },
+  {
+    "id": "high-horsepower",
+    "nameES": "Fuerza Equina",
+    "type": "ground"
+  },
+  {
+    "id": "stoked-sparksurfer",
+    "nameES": "Surfeo Galvánico",
+    "type": "electric"
+  },
+  {
+    "id": "gear-up",
+    "nameES": "Piñón Auxiliar",
+    "type": "steel"
+  },
+  {
+    "id": "sparkling-aria",
+    "nameES": "Aria Burbuja",
+    "type": "water"
+  },
+  {
+    "id": "trop-kick",
+    "nameES": "Patada Tropical",
+    "type": "grass"
+  },
+  {
+    "id": "shadow-bone",
+    "nameES": "Hueso Sombrío",
+    "type": "ghost"
+  },
+  {
+    "id": "10-000-000-volt-thunderbolt",
+    "nameES": "Gigarrayo Fulminante",
+    "type": "electric"
+  },
+  {
+    "id": "searing-sunraze-smash",
+    "nameES": "Embestida Solar",
+    "type": "steel"
+  },
+  {
+    "id": "splintered-stormshards",
+    "nameES": "Tempestad Rocosa",
+    "type": "rock"
+  },
+  {
+    "id": "floaty-fall",
+    "nameES": "Pikapicado",
+    "type": "flying"
+  },
+  {
+    "id": "jaw-lock",
+    "nameES": "Presa Maxilar",
+    "type": "dark"
+  },
+  {
+    "id": "decorate",
+    "nameES": "Decoración",
+    "type": "fairy"
+  },
+  {
+    "id": "max-darkness",
+    "nameES": "Maxisombra",
+    "type": "dark"
+  },
+  {
+    "id": "max-flare",
+    "nameES": "Maxignición",
+    "type": "fire"
+  },
+  {
+    "id": "max-knuckle",
+    "nameES": "Maxipuño",
+    "type": "fighting"
+  },
+  {
+    "id": "no-retreat",
+    "nameES": "Bastión Final",
+    "type": "fighting"
+  },
+  {
+    "id": "max-hailstorm",
+    "nameES": "Maxihelada",
+    "type": "ice"
+  },
+  {
+    "id": "sparkly-swirl",
+    "nameES": "Sylveotornado",
+    "type": "fairy"
+  },
+  {
+    "id": "max-guard",
+    "nameES": "Maxibarrera",
+    "type": "normal"
+  },
+  {
+    "id": "splishy-splash",
+    "nameES": "Salpikasurf",
+    "type": "water"
+  },
+  {
+    "id": "fishious-rend",
+    "nameES": "Branquibocado",
+    "type": "water"
+  },
+  {
+    "id": "dynamax-cannon",
+    "nameES": "Cañón Dinamax",
+    "type": "dragon"
+  },
+  {
+    "id": "octolock",
+    "nameES": "Octopresa",
+    "type": "fighting"
+  },
+  {
+    "id": "max-phantasm",
+    "nameES": "Maxiespectro",
+    "type": "ghost"
+  },
+  {
+    "id": "menacing-moonraze-maelstrom",
+    "nameES": "Deflagración Lunar",
+    "type": "ghost"
+  },
+  {
+    "id": "stuff-cheeks",
+    "nameES": "Atiborramiento",
+    "type": "normal"
+  },
+  {
+    "id": "veevee-volley",
+    "nameES": "Eevimpacto",
+    "type": "normal"
+  },
+  {
+    "id": "body-press",
+    "nameES": "Plancha Corporal",
+    "type": "fighting"
+  },
+  {
+    "id": "photon-geyser",
+    "nameES": "Géiser Fotónico",
+    "type": "psychic"
+  },
+  {
+    "id": "snipe-shot",
+    "nameES": "Disparo Certero",
+    "type": "water"
+  },
+  {
+    "id": "max-quake",
+    "nameES": "Maxitemblor",
+    "type": "ground"
+  },
+  {
+    "id": "double-iron-bash",
+    "nameES": "Ferropuño Doble",
+    "type": "steel"
+  },
+  {
+    "id": "max-flutterby",
+    "nameES": "Maxinsecto",
+    "type": "bug"
+  },
+  {
+    "id": "max-rockfall",
+    "nameES": "Maxilito",
+    "type": "rock"
+  },
+  {
+    "id": "pika-papow",
+    "nameES": "Pikatormenta",
+    "type": "electric"
+  },
+  {
+    "id": "bouncy-bubble",
+    "nameES": "Vapodrenaje",
+    "type": "water"
+  },
+  {
+    "id": "max-overgrowth",
+    "nameES": "Maxiflora",
+    "type": "grass"
+  },
+  {
+    "id": "sizzly-slide",
+    "nameES": "Flarembestida",
+    "type": "fire"
+  },
+  {
+    "id": "plasma-fists",
+    "nameES": "Puños Plasma",
+    "type": "electric"
+  },
+  {
+    "id": "snap-trap",
+    "nameES": "Cepo",
+    "type": "grass"
+  },
+  {
+    "id": "zippy-zap",
+    "nameES": "Pikaturbo",
+    "type": "electric"
+  },
+  {
+    "id": "baddy-bad",
+    "nameES": "Umbreozona",
+    "type": "dark"
+  },
+  {
+    "id": "clangorous-soulblaze",
+    "nameES": "Estruendo Implacable",
+    "type": "dragon"
+  },
+  {
+    "id": "pyro-ball",
+    "nameES": "Balón Ígneo",
+    "type": "fire"
+  },
+  {
+    "id": "glitzy-glow",
+    "nameES": "Espeaura",
+    "type": "psychic"
+  },
+  {
+    "id": "max-starfall",
+    "nameES": "Maxiestela",
+    "type": "fairy"
+  },
+  {
+    "id": "max-mindstorm",
+    "nameES": "Maxionda",
+    "type": "psychic"
+  },
+  {
+    "id": "freezy-frost",
+    "nameES": "Glaceoprisma",
+    "type": "ice"
+  },
+  {
+    "id": "max-airstream",
+    "nameES": "Maxiciclón",
+    "type": "flying"
+  },
+  {
+    "id": "teatime",
+    "nameES": "Hora del Té",
+    "type": "normal"
+  },
+  {
+    "id": "court-change",
+    "nameES": "Cambio de Cancha",
+    "type": "normal"
+  },
+  {
+    "id": "max-geyser",
+    "nameES": "Maxichorro",
+    "type": "water"
+  },
+  {
+    "id": "drum-beating",
+    "nameES": "Batería Asalto",
+    "type": "grass"
+  },
+  {
+    "id": "magic-powder",
+    "nameES": "Polvo Mágico",
+    "type": "psychic"
+  },
+  {
+    "id": "sappy-seed",
+    "nameES": "Leafitobombas",
+    "type": "grass"
+  },
+  {
+    "id": "light-that-burns-the-sky",
+    "nameES": "Fotodestrucción Apocalíptica",
+    "type": "psychic"
+  },
+  {
+    "id": "tar-shot",
+    "nameES": "Alquitranazo",
+    "type": "rock"
+  },
+  {
+    "id": "lets-snuggle-forever",
+    "nameES": "Somanta Amistosa",
+    "type": "fairy"
+  },
+  {
+    "id": "max-strike",
+    "nameES": "Maxiataque",
+    "type": "normal"
+  },
+  {
+    "id": "max-lightning",
+    "nameES": "Maxitormenta",
+    "type": "electric"
+  },
+  {
+    "id": "max-ooze",
+    "nameES": "Maxiácido",
+    "type": "poison"
+  },
+  {
+    "id": "dragon-darts",
+    "nameES": "Dracoflechas",
+    "type": "dragon"
+  },
+  {
+    "id": "buzzy-buzz",
+    "nameES": "Joltioparálisis",
+    "type": "electric"
+  },
+  {
+    "id": "bolt-beak",
+    "nameES": "Electropico",
+    "type": "electric"
+  },
+  {
+    "id": "max-steelspike",
+    "nameES": "Maximetal",
+    "type": "steel"
+  },
+  {
+    "id": "clangorous-soul",
+    "nameES": "Estruendo Escama",
+    "type": "dragon"
+  },
+  {
+    "id": "max-wyrmwind",
+    "nameES": "Maxidraco",
+    "type": "dragon"
+  },
+  {
+    "id": "strange-steam",
+    "nameES": "Cautivapor",
+    "type": "fairy"
+  },
+  {
+    "id": "eerie-spell",
+    "nameES": "Conjuro Funesto",
+    "type": "psychic"
+  },
+  {
+    "id": "wicked-blow",
+    "nameES": "Golpe Oscuro",
+    "type": "dark"
+  },
+  {
+    "id": "steel-beam",
+    "nameES": "Metaláser",
+    "type": "steel"
+  },
+  {
+    "id": "power-shift",
+    "nameES": "Cambiapoder",
+    "type": "normal"
+  },
+  {
+    "id": "freezing-glare",
+    "nameES": "Mirada Heladora",
+    "type": "psychic"
+  },
+  {
+    "id": "jungle-healing",
+    "nameES": "Cura Selvática",
+    "type": "grass"
+  },
+  {
+    "id": "wave-crash",
+    "nameES": "Envite Acuático",
+    "type": "water"
+  },
+  {
+    "id": "scale-shot",
+    "nameES": "Ráfaga Escamas",
+    "type": "dragon"
+  },
+  {
+    "id": "rising-voltage",
+    "nameES": "Alto Voltaje",
+    "type": "electric"
+  },
+  {
+    "id": "scorching-sands",
+    "nameES": "Arenas Ardientes",
+    "type": "ground"
+  },
+  {
+    "id": "triple-axel",
+    "nameES": "Triple Axel",
+    "type": "ice"
+  },
+  {
+    "id": "burning-jealousy",
+    "nameES": "Envidia Ardiente",
+    "type": "fire"
+  },
+  {
+    "id": "poltergeist",
+    "nameES": "Poltergeist",
+    "type": "ghost"
+  },
+  {
+    "id": "dual-wingbeat",
+    "nameES": "Ala Bis",
+    "type": "flying"
+  },
+  {
+    "id": "coaching",
+    "nameES": "Motivación",
+    "type": "fighting"
+  },
+  {
+    "id": "lash-out",
+    "nameES": "Desahogo",
+    "type": "dark"
+  },
+  {
+    "id": "skitter-smack",
+    "nameES": "Golpe Rastrero",
+    "type": "bug"
+  },
+  {
+    "id": "obstruct",
+    "nameES": "Obstrucción",
+    "type": "dark"
+  },
+  {
+    "id": "misty-explosion",
+    "nameES": "Bruma Explosiva",
+    "type": "fairy"
+  },
+  {
+    "id": "esper-wing",
+    "nameES": "Ala Aural",
+    "type": "psychic"
+  },
+  {
+    "id": "dragon-energy",
+    "nameES": "Dracoenergía",
+    "type": "dragon"
+  },
+  {
+    "id": "chloroblast",
+    "nameES": "Clorofiláser",
+    "type": "grass"
+  },
+  {
+    "id": "mountain-gale",
+    "nameES": "Viento Carámbano",
+    "type": "ice"
+  },
+  {
+    "id": "meteor-beam",
+    "nameES": "Rayo Meteórico",
+    "type": "rock"
+  },
+  {
+    "id": "grassy-glide",
+    "nameES": "Fitoimpulso",
+    "type": "grass"
+  },
+  {
+    "id": "apple-acid",
+    "nameES": "Ácido Málico",
+    "type": "grass"
+  },
+  {
+    "id": "steel-roller",
+    "nameES": "Allanador Férreo",
+    "type": "steel"
+  },
+  {
+    "id": "life-dew",
+    "nameES": "Gota Vital",
+    "type": "water"
+  },
+  {
+    "id": "behemoth-bash",
+    "nameES": "Embate Supremo",
+    "type": "steel"
+  },
+  {
+    "id": "thunderous-kick",
+    "nameES": "Patada Relámpago",
+    "type": "fighting"
+  },
+  {
+    "id": "meteor-assault",
+    "nameES": "Asalto Estelar",
+    "type": "fighting"
+  },
+  {
+    "id": "behemoth-blade",
+    "nameES": "Tajo Supremo",
+    "type": "steel"
+  },
+  {
+    "id": "barb-barrage",
+    "nameES": "Mil Púas Tóxicas",
+    "type": "poison"
+  },
+  {
+    "id": "branch-poke",
+    "nameES": "Punzada Rama",
+    "type": "grass"
+  },
+  {
+    "id": "breaking-swipe",
+    "nameES": "Vasto Impacto",
+    "type": "dragon"
+  },
+  {
+    "id": "eternabeam",
+    "nameES": "Rayo Infinito",
+    "type": "dragon"
+  },
+  {
+    "id": "corrosive-gas",
+    "nameES": "Gas Corrosivo",
+    "type": "poison"
+  },
+  {
+    "id": "fiery-wrath",
+    "nameES": "Furia Candente",
+    "type": "dark"
+  },
+  {
+    "id": "thunder-cage",
+    "nameES": "Electrojaula",
+    "type": "electric"
+  },
+  {
+    "id": "astral-barrage",
+    "nameES": "Orbes Espectro",
+    "type": "ghost"
+  },
+  {
+    "id": "aura-wheel",
+    "nameES": "Rueda Aural",
+    "type": "electric"
+  },
+  {
+    "id": "raging-fury",
+    "nameES": "Erupción de Ira",
+    "type": "fire"
+  },
+  {
+    "id": "grav-apple",
+    "nameES": "Fuerza G",
+    "type": "grass"
+  },
+  {
+    "id": "spirit-break",
+    "nameES": "Choque Anímico",
+    "type": "fairy"
+  },
+  {
+    "id": "dire-claw",
+    "nameES": "Garra Nociva",
+    "type": "poison"
+  },
+  {
+    "id": "shell-side-arm",
+    "nameES": "Moluscañón",
+    "type": "poison"
+  },
+  {
+    "id": "overdrive",
+    "nameES": "Amplificador",
+    "type": "electric"
+  },
+  {
+    "id": "expanding-force",
+    "nameES": "Vasta Fuerza",
+    "type": "psychic"
+  },
+  {
+    "id": "glacial-lance",
+    "nameES": "Lanza Glacial",
+    "type": "ice"
+  },
+  {
+    "id": "springtide-storm",
+    "nameES": "Ciclón Primavera",
+    "type": "fairy"
+  },
+  {
+    "id": "headlong-rush",
+    "nameES": "Arremetida",
+    "type": "ground"
+  },
+  {
+    "id": "false-surrender",
+    "nameES": "Irreverencia",
+    "type": "dark"
+  },
+  {
+    "id": "mystical-power",
+    "nameES": "Poder Místico",
+    "type": "psychic"
+  },
+  {
+    "id": "stone-axe",
+    "nameES": "Hachazo Pétreo",
+    "type": "rock"
+  },
+  {
+    "id": "terrain-pulse",
+    "nameES": "Pulso de Campo",
+    "type": "normal"
+  },
+  {
+    "id": "surging-strikes",
+    "nameES": "Azote Torrencial",
+    "type": "water"
+  },
+  {
+    "id": "flip-turn",
+    "nameES": "Viraje",
+    "type": "water"
+  },
+  {
+    "id": "psyshield-bash",
+    "nameES": "Asalto Barrera",
+    "type": "psychic"
+  },
+  {
+    "id": "victory-dance",
+    "nameES": "Danza Triunfal",
+    "type": "fighting"
+  },
+  {
+    "id": "last-respects",
+    "nameES": "Homenaje Póstumo",
+    "type": "ghost"
+  },
+  {
+    "id": "chilling-water",
+    "nameES": "Agua Fría",
+    "type": "water"
+  },
+  {
+    "id": "lunar-blessing",
+    "nameES": "Plegaria Lunar",
+    "type": "psychic"
+  },
+  {
+    "id": "comeuppance",
+    "nameES": "Resarcimiento",
+    "type": "dark"
+  },
+  {
+    "id": "bitter-blade",
+    "nameES": "Espada Lamento",
+    "type": "fire"
+  },
+  {
+    "id": "ruination",
+    "nameES": "Calamidad",
+    "type": "dark"
+  },
+  {
+    "id": "aqua-step",
+    "nameES": "Danza Acuática",
+    "type": "water"
+  },
+  {
+    "id": "tidy-up",
+    "nameES": "Limpieza General",
+    "type": "normal"
+  },
+  {
+    "id": "snowscape",
+    "nameES": "Paisaje Nevado",
+    "type": "ice"
+  },
+  {
+    "id": "ice-spinner",
+    "nameES": "Pirueta Helada",
+    "type": "ice"
+  },
+  {
+    "id": "salt-cure",
+    "nameES": "Salazón",
+    "type": "rock"
+  },
+  {
+    "id": "shed-tail",
+    "nameES": "Autotomía",
+    "type": "normal"
+  },
+  {
+    "id": "population-bomb",
+    "nameES": "Proliferación",
+    "type": "normal"
+  },
+  {
+    "id": "bitter-malice",
+    "nameES": "Rencor Reprimido",
+    "type": "ghost"
+  },
+  {
+    "id": "aqua-cutter",
+    "nameES": "Tajo Acuático",
+    "type": "water"
+  },
+  {
+    "id": "doodle",
+    "nameES": "Decalcomanía",
+    "type": "normal"
+  },
+  {
+    "id": "mortal-spin",
+    "nameES": "Giro Mortífero",
+    "type": "poison"
+  },
+  {
+    "id": "tera-blast",
+    "nameES": "Teraexplosión",
+    "type": "normal"
+  },
+  {
+    "id": "triple-arrows",
+    "nameES": "Triple Flecha",
+    "type": "fighting"
+  },
+  {
+    "id": "hyper-drill",
+    "nameES": "Hipertaladro",
+    "type": "normal"
+  },
+  {
+    "id": "spin-out",
+    "nameES": "Quemarrueda",
+    "type": "steel"
+  },
+  {
+    "id": "axe-kick",
+    "nameES": "Patada Hacha",
+    "type": "fighting"
+  },
+  {
+    "id": "take-heart",
+    "nameES": "Bálsamo Osado",
+    "type": "psychic"
+  },
+  {
+    "id": "flower-trick",
+    "nameES": "Truco Floral",
+    "type": "grass"
+  },
+  {
+    "id": "combat-torque",
+    "nameES": "Pugnachoque",
+    "type": "fighting"
+  },
+  {
+    "id": "bleakwind-storm",
+    "nameES": "Vendaval Gélido",
+    "type": "flying"
+  },
+  {
+    "id": "gigaton-hammer",
+    "nameES": "Martillo Colosal",
+    "type": "steel"
+  },
+  {
+    "id": "infernal-parade",
+    "nameES": "Marcha Espectral",
+    "type": "ghost"
+  },
+  {
+    "id": "shelter",
+    "nameES": "Retracción",
+    "type": "steel"
+  },
+  {
+    "id": "noxious-torque",
+    "nameES": "Ponzochoque",
+    "type": "poison"
+  },
+  {
+    "id": "magical-torque",
+    "nameES": "Feerichoque",
+    "type": "fairy"
+  },
+  {
+    "id": "make-it-rain",
+    "nameES": "Fiebre Dorada",
+    "type": "steel"
+  },
+  {
+    "id": "pounce",
+    "nameES": "Brinco",
+    "type": "bug"
+  },
+  {
+    "id": "jet-punch",
+    "nameES": "Puño Jet",
+    "type": "water"
+  },
+  {
+    "id": "psyblade",
+    "nameES": "Psicohojas",
+    "type": "psychic"
+  },
+  {
+    "id": "wildbolt-storm",
+    "nameES": "Electormenta",
+    "type": "electric"
+  },
+  {
+    "id": "kowtow-cleave",
+    "nameES": "Genufendiente",
+    "type": "dark"
+  },
+  {
+    "id": "blazing-torque",
+    "nameES": "Pirochoque",
+    "type": "fire"
+  },
+  {
+    "id": "spicy-extract",
+    "nameES": "Extracto Picante",
+    "type": "grass"
+  },
+  {
+    "id": "double-shock",
+    "nameES": "Electropalmas",
+    "type": "electric"
+  },
+  {
+    "id": "raging-bull",
+    "nameES": "Furia Taurina",
+    "type": "normal"
+  },
+  {
+    "id": "silk-trap",
+    "nameES": "Telatrampa",
+    "type": "bug"
+  },
+  {
+    "id": "torch-song",
+    "nameES": "Canto Ardiente",
+    "type": "fire"
+  },
+  {
+    "id": "wicked-torque",
+    "nameES": "Ominochoque",
+    "type": "dark"
+  },
+  {
+    "id": "lumina-crash",
+    "nameES": "Fotocolisión",
+    "type": "psychic"
+  },
+  {
+    "id": "rage-fist",
+    "nameES": "Puño Furia",
+    "type": "ghost"
+  },
+  {
+    "id": "ceaseless-edge",
+    "nameES": "Tajo Metralla",
+    "type": "dark"
+  },
+  {
+    "id": "armor-cannon",
+    "nameES": "Cañón Armadura",
+    "type": "fire"
+  },
+  {
+    "id": "sandsear-storm",
+    "nameES": "Simún de Arena",
+    "type": "ground"
+  },
+  {
+    "id": "order-up",
+    "nameES": "Oído Cocina",
+    "type": "dragon"
+  },
+  {
+    "id": "trailblaze",
+    "nameES": "Abrecaminos",
+    "type": "grass"
+  },
+  {
+    "id": "revival-blessing",
+    "nameES": "Plegaria Vital",
+    "type": "normal"
+  },
+  {
+    "id": "glaive-rush",
+    "nameES": "Asalto Espadón",
+    "type": "dragon"
+  },
+  {
+    "id": "electro-drift",
+    "nameES": "Electroderrape",
+    "type": "electric"
+  },
+  {
+    "id": "chilly-reception",
+    "nameES": "Fría Acogida",
+    "type": "ice"
+  },
+  {
+    "id": "triple-dive",
+    "nameES": "Triple Inmersión",
+    "type": "water"
+  },
+  {
+    "id": "collision-course",
+    "nameES": "Nitrochoque",
+    "type": "fighting"
+  },
+  {
+    "id": "fillet-away",
+    "nameES": "Deslome",
+    "type": "normal"
+  },
+  {
+    "id": "hydro-steam",
+    "nameES": "Hidrovapor",
+    "type": "water"
+  },
+  {
+    "id": "twin-beam",
+    "nameES": "Láser Doble",
+    "type": "psychic"
+  },
+  {
+    "id": "syrup-bomb",
+    "nameES": "Bomba Caramelo",
+    "type": "grass"
+  },
+  {
+    "id": "alluring-voice",
+    "nameES": "Canto Encantador",
+    "type": "fairy"
+  },
+  {
+    "id": "thunderclap",
+    "nameES": "Relámpago Súbito",
+    "type": "electric"
+  },
+  {
+    "id": "shadow-chill",
+    "nameES": "Hielo Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-blitz",
+    "nameES": "Vigor Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-end",
+    "nameES": "Fin Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "upper-hand",
+    "nameES": "Palma Rauda",
+    "type": "fighting"
+  },
+  {
+    "id": "matcha-gotcha",
+    "nameES": "Cañón Batidor",
+    "type": "grass"
+  },
+  {
+    "id": "electro-shot",
+    "nameES": "Electrorrayo",
+    "type": "electric"
+  },
+  {
+    "id": "hard-press",
+    "nameES": "Prensa Metálica",
+    "type": "steel"
+  },
+  {
+    "id": "shadow-break",
+    "nameES": "Brío Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-panic",
+    "nameES": "Miedo Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "mighty-cleave",
+    "nameES": "Filo Potente",
+    "type": "rock"
+  },
+  {
+    "id": "shadow-hold",
+    "nameES": "Traba Oscura",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-fire",
+    "nameES": "Fuego Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "supercell-slam",
+    "nameES": "Plancha Voltaica",
+    "type": "electric"
+  },
+  {
+    "id": "shadow-mist",
+    "nameES": "Bruma Oscura",
+    "type": "shadow"
+  },
+  {
+    "id": "burning-bulwark",
+    "nameES": "Llama Protectora",
+    "type": "fire"
+  },
+  {
+    "id": "blood-moon",
+    "nameES": "Luna Roja",
+    "type": "normal"
+  },
+  {
+    "id": "shadow-storm",
+    "nameES": "Tifón Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "malignant-chain",
+    "nameES": "Cadena Virulenta",
+    "type": "poison"
+  },
+  {
+    "id": "shadow-blast",
+    "nameES": "Soplo Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-rush",
+    "nameES": "Carga Oscura",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-bolt",
+    "nameES": "Rayo Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "tachyon-cutter",
+    "nameES": "Tajo Taquión",
+    "type": "steel"
+  },
+  {
+    "id": "psychic-noise",
+    "nameES": "Psicorruido",
+    "type": "psychic"
+  },
+  {
+    "id": "shadow-rave",
+    "nameES": "Rabia Oscura",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-shed",
+    "nameES": "Muda Oscura",
+    "type": "shadow"
+  },
+  {
+    "id": "tera-starstorm",
+    "nameES": "Teraclúster",
+    "type": "normal"
+  },
+  {
+    "id": "fickle-beam",
+    "nameES": "Láser Veleidoso",
+    "type": "dragon"
+  },
+  {
+    "id": "ivy-cudgel",
+    "nameES": "Garrote Liana",
+    "type": "grass"
+  },
+  {
+    "id": "temper-flare",
+    "nameES": "Cólera Ardiente",
+    "type": "fire"
+  },
+  {
+    "id": "shadow-half",
+    "nameES": "Mitad Oscura",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-sky",
+    "nameES": "Cielo Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-wave",
+    "nameES": "Onda Oscura",
+    "type": "shadow"
+  },
+  {
+    "id": "shadow-down",
+    "nameES": "Ocaso Oscuro",
+    "type": "shadow"
+  },
+  {
+    "id": "dragon-cheer",
+    "nameES": "Bramido Dragón",
+    "type": "dragon"
+  }
+]
